@@ -1,0 +1,2405 @@
+{
+  "source": "用户提供的配套答案表",
+  "sections": [
+    {
+      "id": 1,
+      "answers": [
+        "E",
+        "BF",
+        "CDG",
+        "BD",
+        "DE",
+        "BD",
+        "EF"
+      ]
+    },
+    {
+      "id": 2,
+      "answers": [
+        "E",
+        "BD",
+        "BE",
+        "AEG",
+        "AC",
+        "CE",
+        "AF"
+      ]
+    },
+    {
+      "id": 3,
+      "answers": [
+        "E",
+        "AD",
+        "BDH",
+        "AF",
+        "BE",
+        "BC",
+        "AD"
+      ]
+    },
+    {
+      "id": 4,
+      "answers": [
+        "B",
+        "B",
+        "BD",
+        "ADG",
+        "AC",
+        "AF",
+        "DF"
+      ]
+    },
+    {
+      "id": 5,
+      "answers": [
+        "A",
+        "AD",
+        "AEI",
+        "AF",
+        "EF",
+        "AB",
+        "DE"
+      ]
+    },
+    {
+      "id": 6,
+      "answers": [
+        "D",
+        "AE",
+        "BD",
+        "BFG",
+        "BE",
+        "CF",
+        "DF"
+      ]
+    },
+    {
+      "id": 7,
+      "answers": [
+        "A",
+        "BE",
+        "BEI",
+        "AD",
+        "AF",
+        "CF",
+        "CE"
+      ]
+    },
+    {
+      "id": 8,
+      "answers": [
+        "A",
+        "E",
+        "AF",
+        "CDH",
+        "BF",
+        "DF",
+        "AB"
+      ]
+    },
+    {
+      "id": 9,
+      "answers": [
+        "A",
+        "BD",
+        "AEI",
+        "AB",
+        "BF",
+        "BC",
+        "AC"
+      ]
+    },
+    {
+      "id": 10,
+      "answers": [
+        "A",
+        "CD",
+        "BD",
+        "BDI",
+        "CF",
+        "CE",
+        "CE"
+      ]
+    },
+    {
+      "id": 11,
+      "answers": [
+        "A",
+        "CF",
+        "BDI",
+        "AB",
+        "AF",
+        "AB",
+        "BD"
+      ]
+    },
+    {
+      "id": 12,
+      "answers": [
+        "D",
+        "CD",
+        "CF",
+        "BEI",
+        "CD",
+        "AB",
+        "AF"
+      ]
+    },
+    {
+      "id": 13,
+      "answers": [
+        "D",
+        "CE",
+        "CEG",
+        "BE",
+        "AC",
+        "CD",
+        "AB"
+      ]
+    },
+    {
+      "id": 14,
+      "answers": [
+        "E",
+        "C",
+        "BF",
+        "BFH",
+        "BF",
+        "CE",
+        "AF"
+      ]
+    },
+    {
+      "id": 15,
+      "answers": [
+        "B",
+        "CE",
+        "AEH",
+        "DF",
+        "DE",
+        "DF",
+        "CF"
+      ]
+    },
+    {
+      "id": 16,
+      "answers": [
+        "A",
+        "AF",
+        "CD",
+        "AEI",
+        "DF",
+        "BF",
+        "DF"
+      ]
+    },
+    {
+      "id": 17,
+      "answers": [
+        "A",
+        "AE",
+        "CDH",
+        "EF",
+        "DE",
+        "CF",
+        "DF"
+      ]
+    },
+    {
+      "id": 18,
+      "answers": [
+        "C",
+        "E",
+        "BD",
+        "BDH",
+        "BD",
+        "BE",
+        "AF"
+      ]
+    },
+    {
+      "id": 19,
+      "answers": [
+        "C",
+        "BE",
+        "BDH",
+        "AD",
+        "CD",
+        "AB",
+        "AB"
+      ]
+    },
+    {
+      "id": 20,
+      "answers": [
+        "C",
+        "AD",
+        "CD",
+        "CEH",
+        "AC",
+        "BD",
+        "BE"
+      ]
+    },
+    {
+      "id": 21,
+      "answers": [
+        "E",
+        "AD",
+        "BFH",
+        "BC",
+        "BF",
+        "DF",
+        "BD"
+      ]
+    },
+    {
+      "id": 22,
+      "answers": [
+        "E",
+        "AD",
+        "CF",
+        "ADI",
+        "AE",
+        "DF",
+        "BF"
+      ]
+    },
+    {
+      "id": 23,
+      "answers": [
+        "B",
+        "CF",
+        "AEI",
+        "BD",
+        "BF",
+        "AB",
+        "BE"
+      ]
+    },
+    {
+      "id": 24,
+      "answers": [
+        "D",
+        "BF",
+        "CD",
+        "AFG",
+        "AD",
+        "AE",
+        "AB"
+      ]
+    },
+    {
+      "id": 25,
+      "answers": [
+        "C",
+        "CD",
+        "CEI",
+        "CD",
+        "CF",
+        "DF",
+        "BC"
+      ]
+    },
+    {
+      "id": 26,
+      "answers": [
+        "A",
+        "BF",
+        "CE",
+        "CFI",
+        "AC",
+        "AC",
+        "AC"
+      ]
+    },
+    {
+      "id": 27,
+      "answers": [
+        "B",
+        "CE",
+        "BDG",
+        "DF",
+        "AC",
+        "BD",
+        "BD"
+      ]
+    },
+    {
+      "id": 28,
+      "answers": [
+        "D",
+        "AE",
+        "BF",
+        "AFI",
+        "AB",
+        "AB",
+        "BE"
+      ]
+    },
+    {
+      "id": 29,
+      "answers": [
+        "D",
+        "AD",
+        "CEG",
+        "BD",
+        "DF",
+        "CD",
+        "DE"
+      ]
+    },
+    {
+      "id": 30,
+      "answers": [
+        "B",
+        "CE",
+        "AE",
+        "CFH",
+        "EF",
+        "CE",
+        "AF"
+      ]
+    },
+    {
+      "id": 31,
+      "answers": [
+        "B",
+        "AE",
+        "BEH",
+        "CF",
+        "AB",
+        "CE",
+        "BE"
+      ]
+    },
+    {
+      "id": 32,
+      "answers": [
+        "C",
+        "CE",
+        "CE",
+        "BEG",
+        "CE",
+        "DF",
+        "AD"
+      ]
+    },
+    {
+      "id": 33,
+      "answers": [
+        "B",
+        "AF",
+        "BDG",
+        "BD",
+        "AB",
+        "AC",
+        "CD"
+      ]
+    },
+    {
+      "id": 34,
+      "answers": [
+        "D",
+        "CF",
+        "AD",
+        "CEI",
+        "AE",
+        "BE",
+        "CF"
+      ]
+    },
+    {
+      "id": 35,
+      "answers": [
+        "D",
+        "AE",
+        "ADI",
+        "CD",
+        "CE",
+        "AC",
+        "AB"
+      ]
+    },
+    {
+      "id": 36,
+      "answers": [
+        "E",
+        "BD",
+        "CF",
+        "BDG",
+        "BC",
+        "BE",
+        "AC"
+      ]
+    },
+    {
+      "id": 37,
+      "answers": [
+        "B",
+        "BE",
+        "CDG",
+        "AB",
+        "AC",
+        "DF",
+        "BC"
+      ]
+    },
+    {
+      "id": 38,
+      "answers": [
+        "C",
+        "CF",
+        "AE",
+        "BDI",
+        "BF",
+        "DF",
+        "DE"
+      ]
+    },
+    {
+      "id": 39,
+      "answers": [
+        "D",
+        "BF",
+        "BDG",
+        "CF",
+        "AE",
+        "BD",
+        "CF"
+      ]
+    },
+    {
+      "id": 40,
+      "answers": [
+        "E",
+        "BD",
+        "AFI",
+        "ADG",
+        "CE",
+        "BE",
+        "AF"
+      ]
+    },
+    {
+      "id": 41,
+      "answers": [
+        "D",
+        "AD",
+        "ADI",
+        "AE",
+        "BD",
+        "AB",
+        "EF"
+      ]
+    },
+    {
+      "id": 42,
+      "answers": [
+        "A",
+        "CE",
+        "CE",
+        "BDH",
+        "DF",
+        "DE",
+        "AC"
+      ]
+    },
+    {
+      "id": 43,
+      "answers": [
+        "C",
+        "AD",
+        "CDH",
+        "AB",
+        "CD",
+        "AD",
+        "EF"
+      ]
+    },
+    {
+      "id": 44,
+      "answers": [
+        "A",
+        "AE",
+        "BF",
+        "AFG",
+        "BE",
+        "AB",
+        "AE"
+      ]
+    },
+    {
+      "id": 45,
+      "answers": [
+        "C",
+        "CD",
+        "ADG",
+        "BF",
+        "CD",
+        "AF",
+        "BC"
+      ]
+    },
+    {
+      "id": 46,
+      "answers": [
+        "C",
+        "AD",
+        "CE",
+        "CEI",
+        "AB",
+        "BE",
+        "AB"
+      ]
+    },
+    {
+      "id": 47,
+      "answers": [
+        "E",
+        "CE",
+        "CEH",
+        "DF",
+        "CD",
+        "AF",
+        "EF"
+      ]
+    },
+    {
+      "id": 48,
+      "answers": [
+        "E",
+        "BD",
+        "CDG",
+        "BEI",
+        "CF",
+        "BE",
+        "CD"
+      ]
+    },
+    {
+      "id": 49,
+      "answers": [
+        "A",
+        "AD",
+        "BFH",
+        "AE",
+        "CE",
+        "BC",
+        "BF"
+      ]
+    },
+    {
+      "id": 50,
+      "answers": [
+        "C",
+        "AE",
+        "BD",
+        "AFG",
+        "AD",
+        "DF",
+        "DE"
+      ]
+    },
+    {
+      "id": 51,
+      "answers": [
+        "B",
+        "BD",
+        "CEG",
+        "CD",
+        "BD",
+        "AF",
+        "AC"
+      ]
+    },
+    {
+      "id": 52,
+      "answers": [
+        "A",
+        "BF",
+        "ADI",
+        "ADH",
+        "EF",
+        "DE",
+        "BC"
+      ]
+    },
+    {
+      "id": 53,
+      "answers": [
+        "E",
+        "AD",
+        "CEG",
+        "CF",
+        "BD",
+        "BD",
+        "EF"
+      ]
+    },
+    {
+      "id": 54,
+      "answers": [
+        "B",
+        "AF",
+        "BFG",
+        "ADI",
+        "CE",
+        "DF",
+        "DE"
+      ]
+    },
+    {
+      "id": 55,
+      "answers": [
+        "B",
+        "AD",
+        "BEH",
+        "BF",
+        "BE",
+        "DE",
+        "AD"
+      ]
+    },
+    {
+      "id": 56,
+      "answers": [
+        "E",
+        "AD",
+        "AD",
+        "CFG",
+        "DF",
+        "AE",
+        "AE"
+      ]
+    },
+    {
+      "id": 57,
+      "answers": [
+        "C",
+        "AD",
+        "ADI",
+        "CF",
+        "BE",
+        "CD",
+        "CF"
+      ]
+    },
+    {
+      "id": 58,
+      "answers": [
+        "A",
+        "BF",
+        "CF",
+        "CDG",
+        "BD",
+        "AE",
+        "BD"
+      ]
+    },
+    {
+      "id": 59,
+      "answers": [
+        "B",
+        "BE",
+        "CDI",
+        "AE",
+        "BD",
+        "DF",
+        "DF"
+      ]
+    },
+    {
+      "id": 60,
+      "answers": [
+        "A",
+        "AE",
+        "AEI",
+        "CDG",
+        "AE",
+        "CF",
+        "DE"
+      ]
+    },
+    {
+      "id": 61,
+      "answers": [
+        "B",
+        "CD",
+        "CFH",
+        "AD",
+        "BD",
+        "CE",
+        "BC"
+      ]
+    },
+    {
+      "id": 62,
+      "answers": [
+        "C",
+        "C",
+        "AF",
+        "BDI",
+        "AE",
+        "AE",
+        "CF"
+      ]
+    },
+    {
+      "id": 63,
+      "answers": [
+        "E",
+        "AE",
+        "AEI",
+        "BE",
+        "AF",
+        "BD",
+        "BF"
+      ]
+    },
+    {
+      "id": 64,
+      "answers": [
+        "B",
+        "BD",
+        "CFH",
+        "AFI",
+        "AB",
+        "CD",
+        "BE"
+      ]
+    },
+    {
+      "id": 65,
+      "answers": [
+        "B",
+        "BD",
+        "AEG",
+        "BE",
+        "CD",
+        "AC",
+        "CF"
+      ]
+    },
+    {
+      "id": 66,
+      "answers": [
+        "D",
+        "A",
+        "BD",
+        "CEH",
+        "AC",
+        "CE",
+        "CD"
+      ]
+    },
+    {
+      "id": 67,
+      "answers": [
+        "E",
+        "AE",
+        "CDH",
+        "DF",
+        "BD",
+        "AF",
+        "BE"
+      ]
+    },
+    {
+      "id": 68,
+      "answers": [
+        "E",
+        "BD",
+        "AEH",
+        "BFH",
+        "BE",
+        "AB",
+        "BD"
+      ]
+    },
+    {
+      "id": 69,
+      "answers": [
+        "E",
+        "BE",
+        "BFG",
+        "AB",
+        "BF",
+        "AE",
+        "BF"
+      ]
+    },
+    {
+      "id": 70,
+      "answers": [
+        "C",
+        "BE",
+        "CEG",
+        "CEG",
+        "AB",
+        "DE",
+        "AF"
+      ]
+    },
+    {
+      "id": 71,
+      "answers": [
+        "B",
+        "CD",
+        "CFG",
+        "AF",
+        "EF",
+        "AC",
+        "CF"
+      ]
+    },
+    {
+      "id": 72,
+      "answers": [
+        "D",
+        "B",
+        "AE",
+        "CDH",
+        "DF",
+        "EF",
+        "BE"
+      ]
+    },
+    {
+      "id": 73,
+      "answers": [
+        "D",
+        "BD",
+        "AEH",
+        "EF",
+        "CD",
+        "AB",
+        "DF"
+      ]
+    },
+    {
+      "id": 74,
+      "answers": [
+        "D",
+        "BF",
+        "AF",
+        "AFI",
+        "CD",
+        "CF",
+        "BF"
+      ]
+    },
+    {
+      "id": 75,
+      "answers": [
+        "D",
+        "CF",
+        "CFG",
+        "AF",
+        "CD",
+        "AC",
+        "DE"
+      ]
+    },
+    {
+      "id": 76,
+      "answers": [
+        "B",
+        "AF",
+        "AEI",
+        "CEI",
+        "EF",
+        "AC",
+        "BD"
+      ]
+    },
+    {
+      "id": 77,
+      "answers": [
+        "B",
+        "BD",
+        "AEI",
+        "BD",
+        "CE",
+        "CF",
+        "AC"
+      ]
+    },
+    {
+      "id": 78,
+      "answers": [
+        "E",
+        "AE",
+        "BD",
+        "CFG",
+        "BC",
+        "EF",
+        "EF"
+      ]
+    },
+    {
+      "id": 79,
+      "answers": [
+        "B",
+        "CF",
+        "CDG",
+        "BC",
+        "CF",
+        "AB",
+        "CF"
+      ]
+    },
+    {
+      "id": 80,
+      "answers": [
+        "B",
+        "AE",
+        "BD",
+        "CFI",
+        "BE",
+        "CD",
+        "BE"
+      ]
+    },
+    {
+      "id": 81,
+      "answers": [
+        "A",
+        "CE",
+        "ADI",
+        "AC",
+        "BE",
+        "AD",
+        "EF"
+      ]
+    },
+    {
+      "id": 82,
+      "answers": [
+        "E",
+        "C",
+        "AE",
+        "AFH",
+        "CE",
+        "BF",
+        "BF"
+      ]
+    },
+    {
+      "id": 83,
+      "answers": [
+        "B",
+        "CE",
+        "AEH",
+        "BE",
+        "CE",
+        "BE",
+        "AC"
+      ]
+    },
+    {
+      "id": 84,
+      "answers": [
+        "D",
+        "BF",
+        "CE",
+        "BEI",
+        "DE",
+        "CF",
+        "AF"
+      ]
+    },
+    {
+      "id": 85,
+      "answers": [
+        "B",
+        "BD",
+        "ADG",
+        "DE",
+        "BC",
+        "CE",
+        "BC"
+      ]
+    },
+    {
+      "id": 86,
+      "answers": [
+        "C",
+        "BD",
+        "CE",
+        "BDI",
+        "AF",
+        "BF",
+        "EF"
+      ]
+    },
+    {
+      "id": 87,
+      "answers": [
+        "B",
+        "AE",
+        "AFH",
+        "BC",
+        "BD",
+        "EF",
+        "CF"
+      ]
+    },
+    {
+      "id": 88,
+      "answers": [
+        "A",
+        "AE",
+        "AD",
+        "CDG",
+        "AB",
+        "AB",
+        "BE"
+      ]
+    },
+    {
+      "id": 89,
+      "answers": [
+        "B",
+        "CE",
+        "CDG",
+        "BD",
+        "CD",
+        "AD",
+        "CD"
+      ]
+    },
+    {
+      "id": 90,
+      "answers": [
+        "E",
+        "A",
+        "BE",
+        "CDH",
+        "AD",
+        "CD",
+        "AF"
+      ]
+    },
+    {
+      "id": 91,
+      "answers": [
+        "E",
+        "AF",
+        "CDI",
+        "DE",
+        "CE",
+        "BF",
+        "AC"
+      ]
+    },
+    {
+      "id": 92,
+      "answers": [
+        "B",
+        "BF",
+        "BF",
+        "CFG",
+        "BD",
+        "BD",
+        "AD"
+      ]
+    },
+    {
+      "id": 93,
+      "answers": [
+        "E",
+        "AF",
+        "CEG",
+        "BC",
+        "CE",
+        "BC",
+        "AD"
+      ]
+    },
+    {
+      "id": 94,
+      "answers": [
+        "D",
+        "AF",
+        "CEG",
+        "CFG",
+        "AB",
+        "AD",
+        "BD"
+      ]
+    },
+    {
+      "id": 95,
+      "answers": [
+        "D",
+        "BD",
+        "CEH",
+        "BD",
+        "DF",
+        "BC",
+        "AB"
+      ]
+    },
+    {
+      "id": 96,
+      "answers": [
+        "D",
+        "CF",
+        "BDI",
+        "CFG",
+        "CE",
+        "CD",
+        "BC"
+      ]
+    },
+    {
+      "id": 97,
+      "answers": [
+        "C",
+        "AF",
+        "BDI",
+        "AD",
+        "BF",
+        "AC",
+        "AF"
+      ]
+    },
+    {
+      "id": 98,
+      "answers": [
+        "C",
+        "AD",
+        "CDH",
+        "AFI",
+        "CE",
+        "AF",
+        "DF"
+      ]
+    },
+    {
+      "id": 99,
+      "answers": [
+        "E",
+        "CD",
+        "CFI",
+        "AE",
+        "DF",
+        "CE",
+        "DE"
+      ]
+    },
+    {
+      "id": 100,
+      "answers": [
+        "B",
+        "AD",
+        "BF",
+        "CEH",
+        "DF",
+        "EF",
+        "AE"
+      ]
+    },
+    {
+      "id": 101,
+      "answers": [
+        "B",
+        "BE",
+        "BFI",
+        "BE",
+        "EF",
+        "CE",
+        "DF"
+      ]
+    },
+    {
+      "id": 102,
+      "answers": [
+        "D",
+        "CF",
+        "BD",
+        "BDI",
+        "CF",
+        "CF",
+        "AC"
+      ]
+    },
+    {
+      "id": 103,
+      "answers": [
+        "C",
+        "CE",
+        "AEG",
+        "CF",
+        "CE",
+        "CF",
+        "EF"
+      ]
+    },
+    {
+      "id": 104,
+      "answers": [
+        "A",
+        "AD",
+        "CD",
+        "AEG",
+        "DE",
+        "AC",
+        "BF"
+      ]
+    },
+    {
+      "id": 105,
+      "answers": [
+        "A",
+        "AD",
+        "CDH",
+        "AD",
+        "DF",
+        "BE",
+        "DE"
+      ]
+    },
+    {
+      "id": 106,
+      "answers": [
+        "B",
+        "AE",
+        "AFH",
+        "BEH",
+        "AB",
+        "BD",
+        "DF"
+      ]
+    },
+    {
+      "id": 107,
+      "answers": [
+        "E",
+        "CE",
+        "CEH",
+        "AD",
+        "AB",
+        "DE",
+        "BD"
+      ]
+    },
+    {
+      "id": 108,
+      "answers": [
+        "B",
+        "A",
+        "BE",
+        "BFI",
+        "EF",
+        "BF",
+        "BD"
+      ]
+    },
+    {
+      "id": 109,
+      "answers": [
+        "C",
+        "BD",
+        "BEH",
+        "CF",
+        "DF",
+        "AD",
+        "CF"
+      ]
+    },
+    {
+      "id": 110,
+      "answers": [
+        "D",
+        "BD",
+        "CF",
+        "CDH",
+        "CE",
+        "AD",
+        "BE"
+      ]
+    },
+    {
+      "id": 111,
+      "answers": [
+        "E",
+        "CE",
+        "CDI",
+        "DF",
+        "AC",
+        "AD",
+        "AB"
+      ]
+    },
+    {
+      "id": 112,
+      "answers": [
+        "A",
+        "AF",
+        "CFH",
+        "CFG",
+        "CE",
+        "EF",
+        "BF"
+      ]
+    },
+    {
+      "id": 113,
+      "answers": [
+        "A",
+        "AD",
+        "CDH",
+        "BC",
+        "AB",
+        "AE",
+        "CF"
+      ]
+    },
+    {
+      "id": 114,
+      "answers": [
+        "B",
+        "B",
+        "BF",
+        "AFH",
+        "EF",
+        "CF",
+        "CE"
+      ]
+    },
+    {
+      "id": 115,
+      "answers": [
+        "A",
+        "AD",
+        "CEH",
+        "AB",
+        "EF",
+        "DE",
+        "CF"
+      ]
+    },
+    {
+      "id": 116,
+      "answers": [
+        "A",
+        "AD",
+        "BDG",
+        "AEG",
+        "AC",
+        "CD",
+        "DE"
+      ]
+    },
+    {
+      "id": 117,
+      "answers": [
+        "C",
+        "BE",
+        "CDG",
+        "BE",
+        "AB",
+        "BE",
+        "BE"
+      ]
+    },
+    {
+      "id": 118,
+      "answers": [
+        "C",
+        "BD",
+        "BDG",
+        "ADG",
+        "CE",
+        "CE",
+        "AD"
+      ]
+    },
+    {
+      "id": 119,
+      "answers": [
+        "D",
+        "BF",
+        "CDH",
+        "AD",
+        "CE",
+        "AD",
+        "CE"
+      ]
+    },
+    {
+      "id": 120,
+      "answers": [
+        "C",
+        "AF",
+        "AD",
+        "ADG",
+        "CF",
+        "CF",
+        "CE"
+      ]
+    },
+    {
+      "id": 121,
+      "answers": [
+        "C",
+        "AE",
+        "BFG",
+        "AE",
+        "BD",
+        "CD",
+        "AC"
+      ]
+    },
+    {
+      "id": 122,
+      "answers": [
+        "C",
+        "BF",
+        "CE",
+        "CFH",
+        "CF",
+        "AC",
+        "CE"
+      ]
+    },
+    {
+      "id": 123,
+      "answers": [
+        "C",
+        "BD",
+        "AEI",
+        "CD",
+        "AF",
+        "BE",
+        "EF"
+      ]
+    },
+    {
+      "id": 124,
+      "answers": [
+        "C",
+        "CE",
+        "BD",
+        "BDG",
+        "AC",
+        "AE",
+        "BD"
+      ]
+    },
+    {
+      "id": 125,
+      "answers": [
+        "E",
+        "BE",
+        "BFG",
+        "DF",
+        "AB",
+        "AE",
+        "CD"
+      ]
+    },
+    {
+      "id": 126,
+      "answers": [
+        "C",
+        "CF",
+        "CE",
+        "BDG",
+        "AD",
+        "BD",
+        "BC"
+      ]
+    },
+    {
+      "id": 127,
+      "answers": [
+        "B",
+        "AF",
+        "AEG",
+        "AE",
+        "EF",
+        "BD",
+        "CE"
+      ]
+    },
+    {
+      "id": 128,
+      "answers": [
+        "C",
+        "E",
+        "AF",
+        "CEH",
+        "AF",
+        "CE",
+        "EF"
+      ]
+    },
+    {
+      "id": 129,
+      "answers": [
+        "C",
+        "AF",
+        "CDI",
+        "DE",
+        "DF",
+        "AB",
+        "DF"
+      ]
+    },
+    {
+      "id": 130,
+      "answers": [
+        "C",
+        "CD",
+        "CE",
+        "BDH",
+        "CF",
+        "BE",
+        "BF"
+      ]
+    },
+    {
+      "id": 131,
+      "answers": [
+        "A",
+        "AD",
+        "ADG",
+        "BD",
+        "DE",
+        "EF",
+        "AB"
+      ]
+    },
+    {
+      "id": 132,
+      "answers": [
+        "B",
+        "BE",
+        "BF",
+        "BDI",
+        "BF",
+        "AE",
+        "AB"
+      ]
+    },
+    {
+      "id": 133,
+      "answers": [
+        "A",
+        "CD",
+        "BDI",
+        "CE",
+        "AC",
+        "EF",
+        "CF"
+      ]
+    },
+    {
+      "id": 134,
+      "answers": [
+        "C",
+        "AE",
+        "AE",
+        "ADI",
+        "DF",
+        "BD",
+        "AF"
+      ]
+    },
+    {
+      "id": 135,
+      "answers": [
+        "A",
+        "BD",
+        "BDH",
+        "AE",
+        "BC",
+        "CF",
+        "AD"
+      ]
+    },
+    {
+      "id": 136,
+      "answers": [
+        "D",
+        "CE",
+        "AEG",
+        "AFG",
+        "CF",
+        "BD",
+        "AB"
+      ]
+    },
+    {
+      "id": 137,
+      "answers": [
+        "C",
+        "AD",
+        "CEG",
+        "BD",
+        "AB",
+        "CE",
+        "BD"
+      ]
+    },
+    {
+      "id": 138,
+      "answers": [
+        "B",
+        "CE",
+        "AE",
+        "CDH",
+        "BD",
+        "BF",
+        "AF"
+      ]
+    },
+    {
+      "id": 139,
+      "answers": [
+        "B",
+        "AD",
+        "BEG",
+        "EF",
+        "BE",
+        "AC",
+        "BE"
+      ]
+    },
+    {
+      "id": 140,
+      "answers": [
+        "A",
+        "CE",
+        "BE",
+        "CEH",
+        "BC",
+        "AE",
+        "AD"
+      ]
+    },
+    {
+      "id": 141,
+      "answers": [
+        "B",
+        "BE",
+        "AEI",
+        "DF",
+        "CD",
+        "CF",
+        "AB"
+      ]
+    },
+    {
+      "id": 142,
+      "answers": [
+        "B",
+        "CF",
+        "BFG",
+        "AEG",
+        "CD",
+        "BF",
+        "DF"
+      ]
+    },
+    {
+      "id": 143,
+      "answers": [
+        "A",
+        "AD",
+        "ADH",
+        "BD",
+        "DE",
+        "AF",
+        "AD"
+      ]
+    },
+    {
+      "id": 144,
+      "answers": [
+        "B",
+        "AD",
+        "AE",
+        "CDH",
+        "AF",
+        "BE",
+        "DF"
+      ]
+    },
+    {
+      "id": 145,
+      "answers": [
+        "C",
+        "AD",
+        "ADI",
+        "DF",
+        "AD",
+        "BE",
+        "BD"
+      ]
+    },
+    {
+      "id": 146,
+      "answers": [
+        "B",
+        "BF",
+        "AF",
+        "CEH",
+        "CE",
+        "AE",
+        "BE"
+      ]
+    },
+    {
+      "id": 147,
+      "answers": [
+        "B",
+        "BE",
+        "CEI",
+        "AC",
+        "AD",
+        "DF",
+        "DF"
+      ]
+    },
+    {
+      "id": 148,
+      "answers": [
+        "A",
+        "BF",
+        "BD",
+        "AEI",
+        "CD",
+        "BD",
+        "CE"
+      ]
+    },
+    {
+      "id": 149,
+      "answers": [
+        "B",
+        "BE",
+        "CEH",
+        "CE",
+        "AB",
+        "BE",
+        "AD"
+      ]
+    },
+    {
+      "id": 150,
+      "answers": [
+        "A",
+        "BF",
+        "AD",
+        "BDI",
+        "BE",
+        "BF",
+        "BE"
+      ]
+    },
+    {
+      "id": 151,
+      "answers": [
+        "C",
+        "AE",
+        "BDI",
+        "BC",
+        "BD",
+        "BC",
+        "BD"
+      ]
+    },
+    {
+      "id": 152,
+      "answers": [
+        "B",
+        "BF",
+        "BF",
+        "ADI",
+        "CF",
+        "CE",
+        "BF"
+      ]
+    },
+    {
+      "id": 153,
+      "answers": [
+        "D",
+        "BD",
+        "AFH",
+        "BC",
+        "CF",
+        "AF",
+        "AC"
+      ]
+    },
+    {
+      "id": 154,
+      "answers": [
+        "C",
+        "CD",
+        "BF",
+        "AEH",
+        "BE",
+        "CD",
+        "CF"
+      ]
+    },
+    {
+      "id": 155,
+      "answers": [
+        "D",
+        "CE",
+        "CEI",
+        "BF",
+        "AC",
+        "AB",
+        "BC"
+      ]
+    },
+    {
+      "id": 156,
+      "answers": [
+        "C",
+        "BD",
+        "BE",
+        "BEI",
+        "BE",
+        "BD",
+        "BE"
+      ]
+    },
+    {
+      "id": 157,
+      "answers": [
+        "E",
+        "CE",
+        "BDH",
+        "BD",
+        "BD",
+        "BD",
+        "CD"
+      ]
+    },
+    {
+      "id": 158,
+      "answers": [
+        "A",
+        "AE",
+        "AF",
+        "AEG",
+        "DF",
+        "CE",
+        "CF"
+      ]
+    },
+    {
+      "id": 159,
+      "answers": [
+        "B",
+        "AE",
+        "BEH",
+        "DE",
+        "CE",
+        "CD",
+        "BE"
+      ]
+    },
+    {
+      "id": 160,
+      "answers": [
+        "E",
+        "CF",
+        "AD",
+        "CFG",
+        "BF",
+        "EF",
+        "DE"
+      ]
+    },
+    {
+      "id": 161,
+      "answers": [
+        "B",
+        "AF",
+        "CDH",
+        "BC",
+        "AE",
+        "CF",
+        "BC"
+      ]
+    },
+    {
+      "id": 162,
+      "answers": [
+        "E",
+        "CE",
+        "BD",
+        "CEH",
+        "AD",
+        "CE",
+        "AD"
+      ]
+    },
+    {
+      "id": 163,
+      "answers": [
+        "C",
+        "AE",
+        "ADG",
+        "CF",
+        "DF",
+        "BD",
+        "AD"
+      ]
+    },
+    {
+      "id": 164,
+      "answers": [
+        "E",
+        "BE",
+        "CD",
+        "BEG",
+        "BF",
+        "BD",
+        "AF"
+      ]
+    },
+    {
+      "id": 165,
+      "answers": [
+        "B",
+        "BD",
+        "BDI",
+        "AD",
+        "BC",
+        "CD",
+        "AE"
+      ]
+    },
+    {
+      "id": 166,
+      "answers": [
+        "A",
+        "BD",
+        "BE",
+        "BDI",
+        "BD",
+        "AE",
+        "AF"
+      ]
+    },
+    {
+      "id": 167,
+      "answers": [
+        "A",
+        "CE",
+        "ADI",
+        "DF",
+        "AB",
+        "CE",
+        "BD"
+      ]
+    },
+    {
+      "id": 168,
+      "answers": [
+        "E",
+        "AD",
+        "CE",
+        "CDG",
+        "AD",
+        "AE",
+        "AF"
+      ]
+    },
+    {
+      "id": 169,
+      "answers": [
+        "B",
+        "BD",
+        "BDI",
+        "CD",
+        "AB",
+        "AD",
+        "DF"
+      ]
+    },
+    {
+      "id": 170,
+      "answers": [
+        "B",
+        "CF",
+        "AEI",
+        "BC",
+        "DE",
+        "BD",
+        "AB"
+      ]
+    },
+    {
+      "id": 171,
+      "answers": [
+        "A",
+        "AF",
+        "CDH",
+        "BC",
+        "CD",
+        "EF",
+        "CD"
+      ]
+    },
+    {
+      "id": 172,
+      "answers": [
+        "B",
+        "AF",
+        "BF",
+        "AFG",
+        "AB",
+        "CF",
+        "BC"
+      ]
+    },
+    {
+      "id": 173,
+      "answers": [
+        "A",
+        "AF",
+        "BEG",
+        "AE",
+        "CF",
+        "CE",
+        "BF"
+      ]
+    },
+    {
+      "id": 174,
+      "answers": [
+        "D",
+        "AF",
+        "CF",
+        "CDI",
+        "BF",
+        "CF",
+        "BE"
+      ]
+    },
+    {
+      "id": 175,
+      "answers": [
+        "C",
+        "BF",
+        "BEH",
+        "AF",
+        "CE",
+        "BE",
+        "CD"
+      ]
+    },
+    {
+      "id": 176,
+      "answers": [
+        "E",
+        "CD",
+        "BD",
+        "BEG",
+        "DF",
+        "CD",
+        "AE"
+      ]
+    },
+    {
+      "id": 177,
+      "answers": [
+        "C",
+        "BE",
+        "BFH",
+        "AE",
+        "EF",
+        "BD",
+        "BC"
+      ]
+    },
+    {
+      "id": 178,
+      "answers": [
+        "B",
+        "AF",
+        "CD",
+        "CFI",
+        "DE",
+        "CF",
+        "BF"
+      ]
+    },
+    {
+      "id": 179,
+      "answers": [
+        "E",
+        "CE",
+        "AEG",
+        "CF",
+        "CF",
+        "BE",
+        "AE"
+      ]
+    },
+    {
+      "id": 180,
+      "answers": [
+        "C",
+        "BD",
+        "CD",
+        "CDH",
+        "AB",
+        "AF",
+        "BD"
+      ]
+    },
+    {
+      "id": 181,
+      "answers": [
+        "A",
+        "AE",
+        "CEG",
+        "DF",
+        "BD",
+        "BD",
+        "BD"
+      ]
+    },
+    {
+      "id": 182,
+      "answers": [
+        "B",
+        "AF",
+        "CD",
+        "CDH",
+        "DE",
+        "BD",
+        "BF"
+      ]
+    },
+    {
+      "id": 183,
+      "answers": [
+        "A",
+        "CE",
+        "ADG",
+        "EF",
+        "CE",
+        "DE",
+        "AD"
+      ]
+    },
+    {
+      "id": 184,
+      "answers": [
+        "B",
+        "AE",
+        "CE",
+        "ADG",
+        "BD",
+        "DE",
+        "DF"
+      ]
+    },
+    {
+      "id": 185,
+      "answers": [
+        "B",
+        "CD",
+        "AEH",
+        "DF",
+        "AD",
+        "CF",
+        "CF"
+      ]
+    },
+    {
+      "id": 186,
+      "answers": [
+        "B",
+        "BD",
+        "BD",
+        "CDH",
+        "DF",
+        "EF",
+        "CF"
+      ]
+    },
+    {
+      "id": 187,
+      "answers": [
+        "C",
+        "CE",
+        "BEG",
+        "AD",
+        "BE",
+        "CE",
+        "AC"
+      ]
+    },
+    {
+      "id": 188,
+      "answers": [
+        "E",
+        "AD",
+        "AF",
+        "BDI",
+        "CD",
+        "CF",
+        "BE"
+      ]
+    },
+    {
+      "id": 189,
+      "answers": [
+        "E",
+        "CE",
+        "ADG",
+        "CE",
+        "DF",
+        "DF",
+        "CE"
+      ]
+    },
+    {
+      "id": 190,
+      "answers": [
+        "E",
+        "BD",
+        "CE",
+        "CEG",
+        "BD",
+        "BE",
+        "DF"
+      ]
+    },
+    {
+      "id": 191,
+      "answers": [
+        "D",
+        "BD",
+        "BDG",
+        "BF",
+        "AF",
+        "DF",
+        "DE"
+      ]
+    },
+    {
+      "id": 192,
+      "answers": [
+        "C",
+        "BD",
+        "CD",
+        "CDG",
+        "DE",
+        "BE",
+        "DF"
+      ]
+    },
+    {
+      "id": 193,
+      "answers": [
+        "D",
+        "BE",
+        "CDI",
+        "BE",
+        "EF",
+        "CE",
+        "BC"
+      ]
+    },
+    {
+      "id": 194,
+      "answers": [
+        "D",
+        "AF",
+        "AF",
+        "AEH",
+        "CD",
+        "CD",
+        "CF"
+      ]
+    },
+    {
+      "id": 195,
+      "answers": [
+        "C",
+        "BF",
+        "ADG",
+        "EF",
+        "BC",
+        "BD",
+        "AC"
+      ]
+    },
+    {
+      "id": 196,
+      "answers": [
+        "C",
+        "CD",
+        "CF",
+        "CDI",
+        "AD",
+        "BF",
+        "AC"
+      ]
+    },
+    {
+      "id": 197,
+      "answers": [
+        "D",
+        "BF",
+        "BEG",
+        "CF",
+        "AE",
+        "BF",
+        "BD"
+      ]
+    },
+    {
+      "id": 198,
+      "answers": [
+        "E",
+        "AD",
+        "AD",
+        "CEH",
+        "AE",
+        "BF",
+        "AC"
+      ]
+    },
+    {
+      "id": 199,
+      "answers": [
+        "A",
+        "AD",
+        "BFH",
+        "BC",
+        "BD",
+        "CF",
+        "CE"
+      ]
+    },
+    {
+      "id": 200,
+      "answers": [
+        "D",
+        "AF",
+        "BF",
+        "BDI",
+        "DE",
+        "AD",
+        "AC"
+      ]
+    }
+  ]
+}
