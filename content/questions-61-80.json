@@ -1,0 +1,3303 @@
+[
+  {
+    "id": 61,
+    "answers": [
+      "B",
+      "CD",
+      "CFH",
+      "AD",
+      "BD",
+      "CE",
+      "BC"
+    ],
+    "kinds": [
+      "single",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "Paintings created in India during the Mughal dynasty were ______ in ambition but ornamental in presentation: in one direction they have an affinity with newspaper photographs, while in the other they have the intricacy of jewels.",
+        "o": [
+          "A. metaphorical",
+          "B. documentary",
+          "C. aesthetic",
+          "D. sectarian",
+          "E. baroque"
+        ],
+        "translation": "莫卧儿王朝时期印度的绘画在创作意图上重在纪实，呈现方式却富于装饰：一方面近似新闻照片，另一方面又有珠宝般的精巧。",
+        "grammar": "主干 Paintings ... were ... but ...；created in ... 修饰主语。冒号后用 in one direction 与 in the other 展开两个不同方面。",
+        "reason": "B documentary（纪实的）。newspaper photographs 对应记录现实，jewels 对应精巧装饰；baroque 只能重复后半特点，无法解释前一方面。",
+        "sourcePages": [
+          135,
+          136
+        ]
+      },
+      {
+        "number": 2,
+        "t": "As the pace of the trial (i) ______, the wait at the beginning of the day became less interminable, and the attorneys' requests to suspend proceeding for private conferences with the judge, almost invariably granted early on, were routinely (ii) ______.",
+        "o": [
+          "A. slowed",
+          "B. materialized",
+          "C. accelerated",
+          "D. rebuff",
+          "E. repeated",
+          "F. recounted"
+        ],
+        "translation": "随着审判进度加快，每天开始时的等待不再那么漫长；律师要求暂停审理、私下与法官商谈的请求，起初几乎总获准，后来却惯常遭拒。",
+        "grammar": "As 引随时间变化；主句两个分句由 and 连接。almost invariably granted early on 是 requests 的插入修饰，早期与后来形成对照。【原书核对】原书第134页D确为 rebuff，而 were routinely 后通常需 rebuffed；选项照录，不默改。",
+        "reason": "C accelerated、D rebuff。等待缩短对应加速；原先获准、如今拒绝也加快进度。repeated 不能解释获准情况的变化。原书 rebuff 词形不规范，保留选项。",
+        "sourcePages": [
+          135,
+          136
+        ]
+      },
+      {
+        "number": 3,
+        "t": "Most advocates of space exploration by the United States would not explicitly associate spaceflight with (i) ______, yet that belief, Launius and McCurdy write, is among the roots of arguments (ii) ______ human spaceflight. Throughout United States history there has been (iii) ______—seek utopia—on the frontier, and many space advocates have used that notion to make their case for exploring and settling space.",
+        "o": [
+          "A. entertainment",
+          "B. irrationality",
+          "C. utopia",
+          "D. questioning",
+          "E. analyzing",
+          "F. prompting",
+          "G. a hostile region fit only for the most self-reliant",
+          "H. the ideal location for one to better oneself",
+          "I. a paradise corrupted by European civilization"
+        ],
+        "translation": "多数美国太空探索支持者不会公开把航天与乌托邦联系起来，但两位作者认为这种信念是推动载人航天论证的根源之一。美国历史上有把边疆看作个人改善境遇、寻找乌托邦之地的观念，航天倡导者据此主张探索和定居太空。",
+        "grammar": "would not ... yet ... 对比公开说法与潜在信念；Launius and McCurdy write 是插入语。make one's case for 表“为……论证”；末句原书句法残缺，译文按语义说明。【原书核对】原书第134页确为 there has been ...—seek utopia—on the frontier，句法不完整；题面照录，译文仅按上下文说明其边疆乌托邦观念。",
+        "reason": "C utopia、F prompting、H the ideal location for one to better oneself。后文 seek utopia 直接锁定首空，探索倡导者用它支持而非质疑航天；边疆被视为改善生活之地。",
+        "sourcePages": [
+          135,
+          136
+        ]
+      },
+      {
+        "number": 4,
+        "t": "Although people often describe the correct trajectory for a thrown or moving object, their efforts to explain that trajectory in terms of physics can reveal ______understanding of the forces acting on the object.",
+        "o": [
+          "A. a naïve",
+          "B. a subtle",
+          "C. a fallacious",
+          "D. an unsophisticated",
+          "E. a nuanced",
+          "F. a fresh"
+        ],
+        "translation": "人们虽常能描述抛出物或运动物的正确轨迹，但试图用物理学解释轨迹时，却可能暴露出对作用力的理解很粗浅。",
+        "grammar": "Although 让步，区分“描述正确”与“解释机制”。主句主语是 efforts，can reveal 为谓语；acting on ... 修饰 forces。",
+        "reason": "A a naïve、D an unsophisticated，均指幼稚、未经深入理解。与 correct trajectory 构成表面正确但理论浅薄的反差；subtle、nuanced 反而指细致。",
+        "sourcePages": [
+          135,
+          136
+        ]
+      },
+      {
+        "number": 5,
+        "t": "His own writing style was ______: colorful and tart in its choice of language, willing to run risks in its allusions, metaphors, and verbal juxtapositions, prone to irreverent conclusions designed to surprise or startle.",
+        "o": [
+          "A. effusive",
+          "B. audacious",
+          "C. lyrical",
+          "D. striking",
+          "E. ornate",
+          "F. emotional"
+        ],
+        "translation": "他自己的文风大胆醒目：措辞鲜明辛辣，敢在典故、隐喻和词语并置上冒险，还常以不敬传统的结论令读者惊讶。",
+        "grammar": "冒号后说明文风；colorful、willing、prone 构成并列描述。designed to ... 修饰 conclusions，不是修饰作者本人。",
+        "reason": "B audacious、D striking。run risks、irreverent、surprise/startle 共同提示大胆而令人瞩目。effusive、emotional 偏情感流露，不能概括冒险特征。",
+        "sourcePages": [
+          135,
+          136
+        ]
+      },
+      {
+        "number": 6,
+        "t": "Shifting Fortunes takes a conventional approach to American union history by simply explaining the reasons behind union growth and decline in the nineteenth and twentieth century, it is a chronologically and thematically ______ study and nothing more.",
+        "o": [
+          "A. complicated",
+          "B. taxing",
+          "C. circumscribed",
+          "D. onerous",
+          "E. confined",
+          "F. multifarious"
+        ],
+        "translation": "《命运变迁》只是解释十九、二十世纪美国工会兴衰的原因，采用传统工会史写法；其时间和主题范围都有限，仅此而已。",
+        "grammar": "takes ... by explaining ... 表研究方法；it 指该书。chronologically 与 thematically 两个副词共同限定 study 的范围。【原书核对】原书第135页确为 nineteenth and twentieth century，且两分句以逗号相连；题面保留。",
+        "reason": "C circumscribed、E confined，均指受限。simply、conventional、nothing more 强调范围有限；taxing、onerous 指费力，题干未说明阅读负担。",
+        "sourcePages": [
+          135,
+          136
+        ]
+      },
+      {
+        "number": 7,
+        "t": "Given the ______ of solid case studies of environment degradation, this new study adds very little to our knowledge of the field.",
+        "o": [
+          "A. erroneousness",
+          "B. plethora",
+          "C. surfeit",
+          "D. inaccuracy",
+          "E. rigor",
+          "F. outcome"
+        ],
+        "translation": "鉴于已有大量关于环境退化的扎实个案研究，这项新研究几乎没有增加我们对该领域的认识。",
+        "grammar": "Given 引原因，主句 study adds very little；of solid case studies 修饰空格名词，说明数量而非质量。",
+        "reason": "B plethora、C surfeit，均为大量、过多。已有研究充足解释新增贡献小；erroneousness、inaccuracy 与 solid 冲突。",
+        "sourcePages": [
+          135,
+          136
+        ]
+      }
+    ],
+    "sourcePages": [
+      135,
+      136
+    ]
+  },
+  {
+    "id": 62,
+    "answers": [
+      "C",
+      "C",
+      "AF",
+      "BDI",
+      "AE",
+      "AE",
+      "CF"
+    ],
+    "kinds": [
+      "single",
+      "single",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "This is neither praise nor criticism, neither a compliment nor ______, just an observation.",
+        "o": [
+          "A. an exposition",
+          "B. an elucidation",
+          "C. an animadversion",
+          "D. a culmination",
+          "E. a divination"
+        ],
+        "translation": "这既不是赞扬也不是批评，既不是恭维也不是指责，只是一项观察。",
+        "grammar": "两个 neither ... nor ... 平行对应；just an observation 对前面两组评价同时加以排除。",
+        "reason": "C an animadversion（批评、指责）。compliment 对应 praise，空格对应 criticism；exposition、elucidation 是阐述或说明，不是负面评价。",
+        "sourcePages": [
+          137,
+          138
+        ]
+      },
+      {
+        "number": 2,
+        "t": "As the release of the annual report drew near, it was clear that more than a few employees suspected the company was on the verge of bankruptcy; the belief was ______ throughout the organization.",
+        "o": [
+          "A. omniscient",
+          "B. abject",
+          "C. pervasive",
+          "D. estimable",
+          "E. specious"
+        ],
+        "translation": "年度报告发布日临近时，显然已有不少员工怀疑公司濒临破产；这种看法遍及整个组织。",
+        "grammar": "As 引时间；it was clear that ... 中 it 为形式主语。more than a few 意为不少，the belief 回指破产怀疑。",
+        "reason": "C pervasive（普遍存在、遍布的）。more than a few 与 throughout organization 相呼应；omniscient 是无所不知，不能形容信念的传播范围。",
+        "sourcePages": [
+          137,
+          138
+        ]
+      },
+      {
+        "number": 3,
+        "t": "Any number of mysteries to which individual scholars of Athenian history have devoted whole careers are addressed by Ober, and mostly successfully. This will cause some (i) ______ among scholars who have worked for years on a particular problem only to see another scholar suddenly (ii) ______ it.",
+        "o": [
+          "A. chagrin",
+          "B. complacency",
+          "C. hubris",
+          "D. prolong",
+          "E. exacerbate",
+          "F. resolve"
+        ],
+        "translation": "奥伯处理了雅典史学者耗费整个职业生涯研究的许多谜题，而且大多成功。这会让一些多年钻研某一问题、却看见别人突然解决它的学者感到懊恼。",
+        "grammar": "to which ... devoted ... 修饰 mysteries；only to see ... 表出乎意料的结果。see another scholar resolve ... 为感官动词加宾语、动词原形。",
+        "reason": "A chagrin、F resolve。长期努力却被别人抢先解决引发懊恼；complacency 是自满，exacerbate 是恶化问题，均不合 mostly successfully。",
+        "sourcePages": [
+          137,
+          138
+        ]
+      },
+      {
+        "number": 4,
+        "t": "The limitations of human attention cause us to miss much of what goes on around us. The real problem here is that we are often (i) ______ these limitations: we think that we see the world as it really is, but our ostensibly reliable visual experience (ii) ______ striking mental (iii) ______.",
+        "o": [
+          "A. impatient with",
+          "B. unaware of",
+          "C. distracted by",
+          "D. belies",
+          "E. unifies",
+          "F. dispels",
+          "G. feats",
+          "H. images",
+          "I. lapses"
+        ],
+        "translation": "注意力有限使我们漏掉周围许多事情；真正的问题是我们常不知这种局限，误以为看到了世界原貌，而看似可靠的视觉体验掩盖了明显的认知疏漏。",
+        "grammar": "that 引表语内容；冒号解释 unaware 的表现。but 对比主观体验与实际认知；ostensibly 表“表面看来”，非真正可靠。",
+        "reason": "B unaware of、D belies、I lapses。不知局限才误信所见完整；可靠表象掩盖疏漏。feats 是壮举，与 limitations、miss much 方向相反。",
+        "sourcePages": [
+          137,
+          138
+        ]
+      },
+      {
+        "number": 5,
+        "t": "The university's once ______ department of economic history has lost prestige and transmogrified into a department of management and marketing.",
+        "o": [
+          "A. respected",
+          "B. slighted",
+          "C. pretentious",
+          "D. gigantic",
+          "E. venerable",
+          "F. snubbed"
+        ],
+        "translation": "该大学曾经备受尊敬的经济史系已失去声望，转变为管理与市场营销系。",
+        "grammar": "once 修饰空格，和 has lost prestige 形成今昔对比。transmogrified into 表发生显著乃至怪异的转变。",
+        "reason": "A respected、E venerable，均表示受敬重。失去 prestige 暗示此前享有声望；slighted、snubbed 是受冷落，与 once 的对照不合。",
+        "sourcePages": [
+          137,
+          138
+        ]
+      },
+      {
+        "number": 6,
+        "t": "He was one of the most powerful chess players over and one of the most ______ ; at the height of his fame he all but dropped out of chess, entering into a self-imposed exile.",
+        "o": [
+          "A. perplexing",
+          "B. creative",
+          "C. troubled",
+          "D. infuriating",
+          "E. enigmatic",
+          "F. imaginative"
+        ],
+        "translation": "他曾是棋力最强的棋手之一，也最令人费解：在声望鼎盛时，他几乎退出棋坛，主动过上隐居生活。",
+        "grammar": "one of ... and one of ... 并列两项评价；分号后以退隐举例。all but dropped out 表几乎退出，不是“除退出外全都做”。【原书核对】原书第137页确印 chess players over，疑为 ever 的笔误；照录，不影响巅峰退隐与神秘性这一线索。",
+        "reason": "A perplexing、E enigmatic，均为令人困惑、难以理解。巅峰隐退反常，解释其神秘性；creative、imaginative 虽同义却无创造力证据。",
+        "sourcePages": [
+          137,
+          138
+        ]
+      },
+      {
+        "number": 7,
+        "t": "Compared to their predecessors, who were more nationalist than feminist in political orientation, roman women activists of the younger generation are more inclined to ______ women's rights, often creating organizations focused primarily on women's issues.",
+        "o": [
+          "A. expand",
+          "B. de-emphasize",
+          "C. champion",
+          "D. idealize",
+          "E. downplay",
+          "F. defend"
+        ],
+        "translation": "与政治取向更偏民族主义而非女性主义的前辈相比，年轻一代的罗马女性活动家更倾向于捍卫妇女权利，常组建主要关注女性议题的组织。",
+        "grammar": "Compared to ... 为比较状语；who 修饰 predecessors。more ... than ... 比较两种取向；creating ... 表伴随行动。【原书核对】原书第137页 roman 为小写，依原书保留。",
+        "reason": "C champion、F defend，均为支持、捍卫。建立女性议题组织是实质行动；de-emphasize、downplay 是淡化，方向相反。",
+        "sourcePages": [
+          137,
+          138
+        ]
+      }
+    ],
+    "sourcePages": [
+      137,
+      138
+    ]
+  },
+  {
+    "id": 63,
+    "answers": [
+      "E",
+      "AE",
+      "AEI",
+      "BE",
+      "AF",
+      "BD",
+      "BF"
+    ],
+    "kinds": [
+      "single",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "Medieval cathedrals still stand as marvels of architecture, but as far as modern science is concerned, medieval physical and chemistry are simply irrelevant, at best a dead end, at worst the very ______ of what science is supposed to be.",
+        "o": [
+          "A. exemplar",
+          "B. glorification",
+          "C. reflection",
+          "D. dilution",
+          "E. antithesis"
+        ],
+        "translation": "中世纪大教堂仍是建筑奇迹，但就现代科学而言，中世纪的物理与化学已无关紧要：最好也只是死路，最坏则是科学应有面貌的反面。",
+        "grammar": "but 对比建筑成就与科学评价；as far as ... is concerned 限定角度。at best 与 at worst 逐步加强负面判断。【原书核对】原书第138页确为 medieval physical and chemistry，physical 疑为词形笔误；不改动原题。",
+        "reason": "E antithesis（对立面）。dead end 递进到根本反面；exemplar、glorification 都偏肯定，不能承接 at worst。",
+        "sourcePages": [
+          139,
+          140
+        ]
+      },
+      {
+        "number": 2,
+        "t": "There are something like 1,400 seed banks around the world, which guard samples of crop plants ranging from alfalfa to yams. But this agricultural archive is (i) ______ as a result of war, storms, scant money, and bad management, particularly in the world's most (ii) ______ places.",
+        "o": [
+          "A. eroding",
+          "B. expanding",
+          "C. stabilizing",
+          "D. secure",
+          "E. turbulent",
+          "F. cosmopolitan"
+        ],
+        "translation": "全球约有一千四百座种子库，保存从苜蓿到山药的作物样本；但战争、风暴、资金不足和管理不善正使这一农业档案流失，世界最动荡地区尤甚。",
+        "grammar": "which 修饰 seed banks；But 转折，as a result of 列原因。particularly in ... 强调损害最严重的地点。",
+        "reason": "A eroding、E turbulent。战争等使保存体系受侵蚀，动荡地区更严重；expanding、stabilizing 与一系列不利因素相反。",
+        "sourcePages": [
+          139,
+          140
+        ]
+      },
+      {
+        "number": 3,
+        "t": "Movement from bottom to top, from poor to rich, was rare, even movement from poor to middle class was (i) ______. Statistical analysis of trends in occupation, income, and property ownership, Thernstrom wrote, “yielded rather (ii) ______ conclusions about social mobility in nineteenth-century America.” So we might expect Thernstrom to be suspicious now of claims that differences in class could be (iii) ______ if only the public schools did a better job.",
+        "o": [
+          "A. an anomaly",
+          "B. a cinch",
+          "C. a conjecture",
+          "D. multifaceted",
+          "E. pessimistic",
+          "F. unsophisticated",
+          "G. distinguished",
+          "H. misapprehended",
+          "I. obliterated"
+        ],
+        "translation": "从社会底层升至顶层、从贫穷变富裕很罕见，甚至从贫穷进入中产也属例外。瑟恩斯特罗姆认为，职业、收入和财产趋势统计得出了对十九世纪美国社会流动性相当悲观的结论，因此他会怀疑仅靠改善公立学校就能消除阶级差异的说法。",
+        "grammar": "Thernstrom wrote 是插入语；that differences ... could be ... 是 claims 的内容。if only 引出“只要学校做得更好”的假设，作者对此持怀疑态度。",
+        "reason": "A an anomaly、E pessimistic、I obliterated。rare 对应例外，难以上升对应悲观；过往结论使其质疑阶级差异能被彻底消除，而非仅被识别。",
+        "sourcePages": [
+          139,
+          140
+        ]
+      },
+      {
+        "number": 4,
+        "t": "Travel writers have a special burden of forming ______ story—that is, one with a beginning, middle, and end— out of the unformed moments that make up the act of traveling.",
+        "o": [
+          "A. a compelling",
+          "B. a coherent",
+          "C. an original",
+          "D. a serious",
+          "E. an orderly",
+          "F. an innovative"
+        ],
+        "translation": "旅行作者必须把旅途中尚未成形的片段组织成连贯、有序的故事，也就是有开端、中段和结尾的叙事。",
+        "grammar": "forming A out of B 表“用B形成A”；that is 引解释。that make up ... 修饰 moments，不是修饰故事。",
+        "reason": "B a coherent、E an orderly，均指有条理。beginning, middle, end 是直接线索；original、innovative 指创新，并非结构秩序。",
+        "sourcePages": [
+          139,
+          140
+        ]
+      },
+      {
+        "number": 5,
+        "t": "Although the company still loses the occasional lawsuit, the litigation threat that once seemed so ______ has become quite manageable.",
+        "o": [
+          "A. burdensome",
+          "B. pedestrian",
+          "C. sporadic",
+          "D. mundane",
+          "E. promising",
+          "F. onerous"
+        ],
+        "translation": "公司虽偶尔仍败诉，但昔日看起来负担沉重的诉讼威胁，如今已相当容易应对。",
+        "grammar": "Although 让步；that once seemed ... 修饰 threat。once 与 has become 对照过去和现在。",
+        "reason": "A burdensome、F onerous，均为造成沉重负担。manageable 对比难以承受；sporadic 只说明零星，不能表达过去的负担。",
+        "sourcePages": [
+          139,
+          140
+        ]
+      },
+      {
+        "number": 6,
+        "t": "Anne Carson's book Nax is, very deliberately, ______ literary object—the opposite of an e-reader, which is designed to vanish in your palm as you read on a train.",
+        "o": [
+          "A. an evanescent",
+          "B. a cumbersome",
+          "C. an immutable",
+          "D. an unwieldy",
+          "E. an ephemeral",
+          "F. a flexible"
+        ],
+        "translation": "安妮·卡森的《Nax》刻意成为一件笨重、不便携带的文学实物，正好与可在火车上阅读、仿佛隐没于掌中的电子阅读器相反。",
+        "grammar": "very deliberately 是插入副词；破折号后解释 opposite。which 修饰 e-reader；as you read 表同时发生。【原书核对】原书第139页书名确印 Nax；不按其他版本自行改成 Nox。",
+        "reason": "B a cumbersome、D an unwieldy，均为笨重难用。opposite 与 vanish in your palm 说明实体感、笨重感；evanescent、ephemeral 反而是短暂易逝。",
+        "sourcePages": [
+          139,
+          140
+        ]
+      },
+      {
+        "number": 7,
+        "t": "Peoples decisions about childbearing depend on innumerable personal consideration and societal factors, yet even knowing this, demographers are often ______: their projections of birth rates frequently turn out to be embarrassingly at odds with reality.",
+        "o": [
+          "A. sanguine",
+          "B. flummoxed",
+          "C. inconsistent",
+          "D. overconfident",
+          "E. heartened",
+          "F. confounded"
+        ],
+        "translation": "生育决定受无数个人考虑和社会因素影响；人口学家虽知道这一点，仍常困惑，因为他们的出生率预测常与现实严重不符。",
+        "grammar": "yet even knowing this 为双重让步；冒号后解释困惑。at odds with 意为“与……不一致”。【原书核对】原书第139页确为 Peoples 和 personal consideration；原题照录，译文按正常语义解释。",
+        "reason": "B flummoxed、F confounded，均为困惑。预测落空使研究者受挫不解；overconfident 虽可能合理，却无相应同义搭档。",
+        "sourcePages": [
+          139,
+          140
+        ]
+      }
+    ],
+    "sourcePages": [
+      139,
+      140
+    ]
+  },
+  {
+    "id": 64,
+    "answers": [
+      "B",
+      "BD",
+      "CFH",
+      "AFI",
+      "AB",
+      "CD",
+      "BE"
+    ],
+    "kinds": [
+      "single",
+      "multi",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "While the writer was best known for her much-ballyhooed ______, her impact reached far beyond memorable quips.",
+        "o": [
+          "A. pensiveness",
+          "B. drollness",
+          "C. stoicism",
+          "D. fastidiousness",
+          "E. congeniality"
+        ],
+        "translation": "这位作家最为人熟知的是广受宣传的诙谐，但她的影响远远超出了那些令人难忘的俏皮话。",
+        "grammar": "While 表让步；was best known for 与 reached far beyond 对照。memorable quips 回指空格所述特点。",
+        "reason": "B drollness（幽默、滑稽）。quips 是俏皮话，直接对应幽默；pensiveness 是沉思，stoicism 是克制忍耐，均不合。",
+        "sourcePages": [
+          141,
+          142
+        ]
+      },
+      {
+        "number": 2,
+        "t": "Even if the merits of the proposal are (i) ______, faculty members may be reluctant to (ii) ______ given their fear of offending the group that champions tt.",
+        "o": [
+          "A. unparalleled",
+          "B. dubious",
+          "C. obvious",
+          "D. demur",
+          "E. approve",
+          "F. acquiesce"
+        ],
+        "translation": "即使提案的优点令人怀疑，教师们也可能因害怕得罪支持它的团体而不愿提出异议。",
+        "grammar": "Even if 引让步；be reluctant to demur 是“不愿反对”，含双重态度。given their fear ... 交代不反对的原因。",
+        "reason": "B dubious、D demur。提案可疑本应反对，却因怕冒犯而不反对；approve、acquiesce 是赞同，会使让步逻辑失去张力。",
+        "sourcePages": [
+          141,
+          142
+        ]
+      },
+      {
+        "number": 3,
+        "t": "Many historians of the ancient world are wary of sounding (i) ______. Write so much as a sentence and the temptation is immediately to (ii) ______ it. Even in cases when the sources for a given event are (iii) ______, uncertainties and discrepancies crop up everywhere.",
+        "o": [
+          "A. fusty",
+          "B. anachronistic",
+          "C. dogmatic",
+          "D. recapitulate",
+          "E. forswear",
+          "F. qualify",
+          "G. consistent",
+          "H. plentiful",
+          "I. biased"
+        ],
+        "translation": "许多古代史学家不愿显得武断：哪怕只写一句话，也想立即加以限定。即使某事件史料丰富，不确定性与分歧仍随处出现。",
+        "grammar": "Write ... and ... 是祈使句加结果分句；qualify 的宾语 it 指刚写下的句子。Even ... when ... 进一步让步。",
+        "reason": "C dogmatic、F qualify、H plentiful。避免武断就须限定说法；即使材料充足仍有疑问，才构成让步。recapitulate 只是重述，不能缓和断言。",
+        "sourcePages": [
+          141,
+          142
+        ]
+      },
+      {
+        "number": 4,
+        "t": "His idea to make money by building a drone that could fly from the West Coast to Hawaii while continuously sending back low-altitude weather data is a characteristically (i) ______ project. The (ii) ______ of good storm-intensity forecasts has huge economic costs, but filling that need won't automatically generate big profits because the economic benefits are (iii) ______.",
+        "o": [
+          "A. quixotic",
+          "B. mercenary",
+          "C. resourceful",
+          "D. ubiquity",
+          "E. accuracy",
+          "F. dearth",
+          "G. almost inevitable",
+          "H. hard to envision",
+          "I. so widely diffused"
+        ],
+        "translation": "他打算靠制造持续回传低空天气数据、从美国西岸飞往夏威夷的无人机赚钱，这计划一如既往地不切实际。缺乏准确风暴强度预报代价巨大，但补足需求未必带来高利润，因为收益分散得太广。",
+        "grammar": "that could fly ... 修饰 drone；while sending ... 表飞行同时回传。but 区分社会经济价值与个人商业利润；because 解释两者不等同。",
+        "reason": "A quixotic、F dearth、I so widely diffused。缺预报造成损失，却因收益难集中而不容易赚钱；不是 mercenary，也不是收益无法想象。",
+        "sourcePages": [
+          141,
+          142
+        ]
+      },
+      {
+        "number": 5,
+        "t": "Although one can adduce myriad examples of ecosystem disruption by non-indigenous species, nevertheless most introduced species that survive in fact appear to have quite ______ effects on the ecosystems they have invaded.",
+        "o": [
+          "A. minimal",
+          "B. trifling",
+          "C. marked",
+          "D. conspicuous",
+          "E. intriguing",
+          "F. deleterious"
+        ],
+        "translation": "外来物种破坏生态系统的例子虽数不胜数，但多数成功存活的引入物种，实际上对入侵生态系统的影响很小。",
+        "grammar": "Although 与 nevertheless 共同标示转折；that survive 修饰 species；appear to have 表观察判断。",
+        "reason": "A minimal、B trifling，均为很小、微不足道。前半举破坏，后半须指出多数影响轻微；marked、conspicuous 是显著，方向相反。",
+        "sourcePages": [
+          141,
+          142
+        ]
+      },
+      {
+        "number": 6,
+        "t": "Typefaces, in one sense, are just like styles of shoes: they ______ because different people have different tastes and identities and because both creators and users value novelty for its own sake.",
+        "o": [
+          "A. bemuse",
+          "B. converge",
+          "C. proliferate",
+          "D. abound",
+          "E. evolve",
+          "F. coincide"
+        ],
+        "translation": "某种意义上，字体像鞋款一样繁多，因为人们的品味、身份各异，而且创作者和使用者都重视新奇本身。",
+        "grammar": "冒号后主句 they ...；两个 because 并列原因。for its own sake 表“仅因新奇本身”，不是为了其他功用。",
+        "reason": "C proliferate、D abound，均为大量出现。多种品味加求新导致数量繁多；converge、coincide 指趋同或重合，不合差异性。",
+        "sourcePages": [
+          141,
+          142
+        ]
+      },
+      {
+        "number": 7,
+        "t": "It's a sign of John Dramani Mahamas maturity as a writer that he is willing to consider his country's future so ______: his memoir is appealingly honest, given to clear-eyed assessments rather than exaggerated accounts of achievements.",
+        "o": [
+          "A. cheerfully",
+          "B. dispassionately",
+          "C. insightfully",
+          "D. evocatively",
+          "E. analytically",
+          "F. blithely"
+        ],
+        "translation": "约翰·德拉马尼·马哈马愿意如此冷静分析国家未来，体现了其写作成熟；回忆录坦诚可亲，倾向清醒评估，而非夸大战绩。",
+        "grammar": "It's a sign ... that ... 中 it 为形式主语；that 从句是真正说明的表现。given to ... 表“倾向于”，rather than 对比评估方式。",
+        "reason": "B dispassionately、E analytically，均指冷静理性。clear-eyed assessments 是直接线索；cheerfully、blithely 是乐观轻快，不能说明严谨评估。",
+        "sourcePages": [
+          141,
+          142
+        ]
+      }
+    ],
+    "sourcePages": [
+      141,
+      142
+    ]
+  },
+  {
+    "id": 65,
+    "answers": [
+      "B",
+      "BD",
+      "AEG",
+      "BE",
+      "CD",
+      "AC",
+      "CF"
+    ],
+    "kinds": [
+      "single",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "One view of historicism holds that systems of belief prevalent during different period in history are ______ and therefore cannot be understood except in their own term.",
+        "o": [
+          "A. discriminatory",
+          "B. incommensurable",
+          "C. anachronistic",
+          "D. cosmopolitan",
+          "E. objective"
+        ],
+        "translation": "一种历史主义观点认为，历史上不同时期流行的信仰体系无法用同一尺度比较，因此只能放在各自的语境中理解。",
+        "grammar": "holds that ... 引观点；prevalent during ... 修饰 systems。cannot ... except ... 意为“只有……才可以”。【原书核对】原书第142页确为 different period 与 in their own term，单复数写法保留。",
+        "reason": "B incommensurable（不可通约的）。只能按自身标准理解，说明缺乏共同衡量尺度；anachronistic 是时代错置，不是体系间不可比较。",
+        "sourcePages": [
+          143,
+          144
+        ]
+      },
+      {
+        "number": 2,
+        "t": "The genius of the scientific method is that it (i) ______ the dictum of Aristotle that the goal of science is knowledge of the ultimate cause of things. True science, we now know, advances human knowledge by (ii) ______ ultimate causes and focusing instead on the testing of empirical hypotheses.",
+        "o": [
+          "A. qualifies",
+          "B. jettisons",
+          "C. affirms",
+          "D. ignoring",
+          "E. predicting",
+          "F. confirming"
+        ],
+        "translation": "科学方法的高明之处，在于放弃亚里士多德把认识事物终极原因作为科学目标的训条。真正的科学通过搁置终极原因、转而检验经验假说，推进人类知识。",
+        "grammar": "表语 that 从句说明 genius；第二个 that 解释 dictum。by ignoring ... and focusing ... 为并列方式；instead 强调替换研究目标。",
+        "reason": "B jettisons、D ignoring。不是探求终极原因，而是经验检验，故放弃旧训条；affirms、confirming 会延续原主张。",
+        "sourcePages": [
+          143,
+          144
+        ]
+      },
+      {
+        "number": 3,
+        "t": "Unquestionably, the particular forms that folly and cruelty take in Jane Austen's novels are (i) ______ the character's social milieu, which was also Austen's own, but to realize that one's society motivates people in unfortunate ways is not necessarily to (ii) ______ it, for the alternatives, though different, might be no more (iii) ______.",
+        "o": [
+          "A. shaped by",
+          "B. removed from",
+          "C. unrecognizable in",
+          "D. expose",
+          "E. condemn",
+          "F. rationalize",
+          "G. salutary",
+          "H. corrosive",
+          "I. realistic"
+        ],
+        "translation": "奥斯汀小说中愚蠢和残酷的具体形式，无疑受人物所处、也是作者自己的社会环境塑造；但认识到社会会以不幸方式驱动人，并不等于谴责社会，因为其他社会安排未必更有益。",
+        "grammar": "that folly ... take 修饰 forms；which 回指 social milieu。to realize ... 作主语；for 引理由，though different 为让步插入语。",
+        "reason": "A shaped by、E condemn、G salutary。社会塑造行为，却未必值得谴责，因为替代方案未必更好；corrosive 为有害，与“替代也不更有益”的辩护不同。",
+        "sourcePages": [
+          143,
+          144
+        ]
+      },
+      {
+        "number": 4,
+        "t": "Some experts estimate that the recreational salmon fishery in British Columbia contributes more to the province's economy than the commercial salmon fishery does—a surprising statistic given the political commercial ______ of the fishery in the province.",
+        "o": [
+          "A. naïveté",
+          "B. prominence",
+          "C. supremacy",
+          "D. ingenuousness",
+          "E. salience",
+          "F. resurgence"
+        ],
+        "translation": "有专家估计，不列颠哥伦比亚的休闲鲑鱼渔业对经济贡献大于商业渔业；考虑到商业渔业在当地政治上的显赫地位，这一数字令人惊讶。",
+        "grammar": "estimate that ... 后用 more ... than ... 比较经济贡献；破折号后 a surprising statistic 概括整项结果。given ... 提供惊讶原因。【原书核对】原书第143页词序确为 political commercial ... of the fishery；未改写成更自然的 political ... of the commercial fishery。译文按商业渔业政治地位理解。",
+        "reason": "B prominence、E salience，均为突出显要。政治重要却经济贡献相对较低形成反差；supremacy 是支配优势，缺少同义选项。",
+        "sourcePages": [
+          143,
+          144
+        ]
+      },
+      {
+        "number": 5,
+        "t": "The jazz style called bebop was born and nurtured in New York City, and despite a ______ initial reception, it resonated three thousand miles away on the West Coast.",
+        "o": [
+          "A. wary",
+          "B. warm",
+          "C. confused",
+          "D. muddled",
+          "E. convivial",
+          "F. hostile"
+        ],
+        "translation": "比博普爵士乐在纽约诞生并成长，虽然最初受到困惑、茫然的回应，却在三千英里外的西海岸引起共鸣。",
+        "grammar": "despite 后接名词短语 initial reception；it 指 bebop，resonated 描述后来被接受。",
+        "reason": "C confused、D muddled，均为混乱、困惑。虽起初令人摸不着头脑却远传；warm、convivial 都偏热情友好，无法体现 despite 的反差。",
+        "sourcePages": [
+          143,
+          144
+        ]
+      },
+      {
+        "number": 6,
+        "t": "In 1884, Sewall and Dow agreed to join Roosevelt in the Dakota territory for reasons that appear to have been ______: Sewell later recalled that Roosevelt guaranteed them a share of anything made in his cattle business.",
+        "o": [
+          "A. pecuniary",
+          "B. straightforward",
+          "C. economic",
+          "D. selfless",
+          "E. quixotic",
+          "F. altruistic"
+        ],
+        "translation": "1884年，休厄尔和道同意赴达科他与罗斯福合作，看来出于经济原因：休厄尔后来回忆，罗斯福保证让他们分享养牛生意的收益。",
+        "grammar": "for reasons that appear ...；that 修饰 reasons。冒号后的 recalled that ... 是经济动机的证据，a share of anything made 指收益分成。【原书核对】原书第143页前文 Sewall、后文 Sewell，拼写不一致，照录。",
+        "reason": "A pecuniary、C economic，均为金钱、经济方面。guaranteed a share 明示利益；selfless、altruistic 与报酬动机相反。",
+        "sourcePages": [
+          143,
+          144
+        ]
+      },
+      {
+        "number": 7,
+        "t": "Estimating demographic parameters in marine mammals is challenging, often requiring many years of data to achieve sufficient precision to ______ biologically meaningful change.",
+        "o": [
+          "A. effect",
+          "B. tolerate",
+          "C. discern",
+          "D. envisage",
+          "E. withstand",
+          "F. detect"
+        ],
+        "translation": "估计海洋哺乳动物的人口统计参数很困难，通常需多年数据才能达到足够精度，识别具有生物学意义的变化。",
+        "grammar": "Estimating ... 作主语；requiring ... 说明困难所在。to achieve ... 与 to discern ... 依次说明收集数据、提高精度的目的。",
+        "reason": "C discern、F detect，均为察觉、识别。研究是识别变化，非 effect（造成变化）；tolerate、withstand 是承受，非测量目的。",
+        "sourcePages": [
+          143,
+          144
+        ]
+      }
+    ],
+    "sourcePages": [
+      143,
+      144
+    ]
+  },
+  {
+    "id": 66,
+    "answers": [
+      "D",
+      "A",
+      "BD",
+      "CEH",
+      "AC",
+      "CE",
+      "CD"
+    ],
+    "kinds": [
+      "single",
+      "single",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "The inconspicuous location and lack of striking vistas that characterize the villa reflect the ______ aspect of its creator's personality.",
+        "o": [
+          "A. volatile",
+          "B. grandiose",
+          "C. gregarious",
+          "D. self-effacing",
+          "E. imperious"
+        ],
+        "translation": "别墅位置隐蔽，也没有引人注目的景观，反映出建造者性格中不喜张扬的一面。",
+        "grammar": "主语是 location and lack，that characterize ... 修饰两者；reflect 为主句谓语，空格修饰 aspect。",
+        "reason": "D self-effacing（谦逊、不张扬的）。inconspicuous、lack of striking vistas 是低调线索；grandiose、imperious 反而张扬强势。",
+        "sourcePages": [
+          145,
+          146
+        ]
+      },
+      {
+        "number": 2,
+        "t": "The chairman, faced with the need to forge a consensus on a number of proposals, acknowledged that it would be difficult to reconcile the push for a radical overhaul with the stance of those who want ______ change.",
+        "o": [
+          "A. deliberate",
+          "B. indiscriminate",
+          "C. genuine",
+          "D. immediate",
+          "E. wholesale"
+        ],
+        "translation": "主席需要就多项提案形成共识，他承认要调和彻底改革派与主张审慎渐进改变者的立场很困难。",
+        "grammar": "faced with ... 修饰 chairman；acknowledged that ... 中 it 为形式主语。reconcile A with B 表调和两方立场。",
+        "reason": "A deliberate（慎重、从容的）。与 radical overhaul 形成变化速度和程度上的对照；wholesale 也是全面改革，不能解释难调和。",
+        "sourcePages": [
+          145,
+          146
+        ]
+      },
+      {
+        "number": 3,
+        "t": "Recently released statistics on the prevalence of heart disease in the United States, while (i) ______, nevertheless reflect a decline from heights reached in the 1960s, before health officials began publicly (ii) ______ people to guard against heart disease.",
+        "o": [
+          "A. definite",
+          "B. sobering",
+          "C. implausible",
+          "D. entreating",
+          "E. defying",
+          "F. absolving"
+        ],
+        "translation": "美国近期公布的心脏病患病率统计虽令人警醒，仍反映出较二十世纪六十年代高峰有所下降；当时公共卫生官员尚未开始公开敦促人们预防心脏病。",
+        "grammar": "while ... 为让步，nevertheless 呼应；before 修饰早期时间背景。began entreating people to ... 表开始劝人采取行动。",
+        "reason": "B sobering、D entreating。数据仍严峻但比高峰下降；防病宣传是敦促，而非 defying（违抗）或 absolving（免除责任）。",
+        "sourcePages": [
+          145,
+          146
+        ]
+      },
+      {
+        "number": 4,
+        "t": "However luminous an insight might seem initially, brilliance is not a reliable predictor of (i) ______ and sure enough the history of physical chemistry is replete with theories that were as (ii) ______ as any but that (iii) ______.",
+        "o": [
+          "A. popularity",
+          "B. originality",
+          "C. validity",
+          "D. opaque",
+          "E. ingenious",
+          "F. useful",
+          "G. slowly developed",
+          "H. eventually collapsed",
+          "I. ultimately prevailed"
+        ],
+        "translation": "一种见解最初再耀眼，其聪明巧妙也不能可靠预测它是否成立；物理化学史上确有许多极富巧思、最终却崩溃的理论。",
+        "grammar": "However ... 引让步；that were ... but that ... 两个定语从句并列修饰 theories。as ingenious as any 表不逊于任何理论的巧妙。",
+        "reason": "C validity、E ingenious、H eventually collapsed。brilliance 不保证正确，故须有巧妙却被推翻的例子；ultimately prevailed 不能证明二者脱节。",
+        "sourcePages": [
+          145,
+          146
+        ]
+      },
+      {
+        "number": 5,
+        "t": "The company is so old-fashioned and opposed to innovation that it can seem downright ______.",
+        "o": [
+          "A. antediluvian",
+          "B. flighty",
+          "C. archaic",
+          "D. chauvinistic",
+          "E. capricious",
+          "F. patronizing"
+        ],
+        "translation": "这家公司如此守旧、如此反对创新，以至于简直显得古老过时。",
+        "grammar": "so ... that ... 为程度结果；old-fashioned 与 opposed to innovation 并列原因，downright 加强语气。",
+        "reason": "A antediluvian、C archaic，均为陈旧过时。flighty、capricious 是反复无常，与守旧不同。",
+        "sourcePages": [
+          145,
+          146
+        ]
+      },
+      {
+        "number": 6,
+        "t": "The central idea of the worldview known as “consilience” is that all tangible phenomena are based on material processes that are ultimately reducible, however long and ______ the sequences, to the laws of physics.",
+        "o": [
+          "A. facile",
+          "B. ethereal",
+          "C. tortuous",
+          "D. superficial",
+          "E. convoluted",
+          "F. protracted"
+        ],
+        "translation": "被称为“融通”的世界观认为，所有可感知现象都基于物质过程；无论过程链条多漫长、多曲折，最终都可还原为物理定律。",
+        "grammar": "that 引表语内容；that are ... 修饰 processes。however long and ... the sequences 是让步插入，reducible ... to 的搭配被其隔开。",
+        "reason": "C tortuous、E convoluted，均为曲折复杂。和 long 并列描述推演链条；protracted 只重复漫长，不能与其他选项组成等价对。",
+        "sourcePages": [
+          145,
+          146
+        ]
+      },
+      {
+        "number": 7,
+        "t": "Because archaeology explores the most profound changes in human history by means of a grossly incomplete record, it has invited the sort of bold, imaginative interpretation in which speculation too easily becomes ______ evidence.",
+        "o": [
+          "A. replaced by",
+          "B. constrained by",
+          "C. untethered from",
+          "D. divorced from",
+          "E. substituted for",
+          "F. constricted by"
+        ],
+        "translation": "考古学借助极不完整的记录研究人类历史最深刻的变化，因此容易吸引大胆想象的阐释，其中推测常轻易脱离证据约束。",
+        "grammar": "Because 引原因；主句 it 指 archaeology。in which 修饰 interpretation；speculation becomes ... evidence 表推测与证据的关系。",
+        "reason": "C untethered from、D divorced from，均为脱离。incomplete record、bold imaginative 提示证据不足的风险；replaced by、constrained by 反而让证据约束推测。",
+        "sourcePages": [
+          145,
+          146
+        ]
+      }
+    ],
+    "sourcePages": [
+      145,
+      146
+    ]
+  },
+  {
+    "id": 67,
+    "answers": [
+      "E",
+      "AE",
+      "CDH",
+      "DF",
+      "BD",
+      "AF",
+      "BE"
+    ],
+    "kinds": [
+      "single",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "Needing an advocate who would be both precise and succinct, they rejected McLintock, whose inveterate ______ would automatically preclude meeting those requirements.",
+        "o": [
+          "A. punctiliousness",
+          "B. concision",
+          "C. cautiousness",
+          "D. imperturbability",
+          "E. prolixity"
+        ],
+        "translation": "他们需要表达准确简练的辩护人，因此拒绝了麦克林托克：他积习难改的冗长表达，会使他自然无法满足要求。",
+        "grammar": "Needing ... 表原因；whose 引非限制性定语从句，inveterate 修饰空格名词。preclude meeting 表使满足要求成为不可能。",
+        "reason": "E prolixity（冗长）。与 succinct 直接相反；concision 是简洁，反而符合要求，punctiliousness 是细致守规。",
+        "sourcePages": [
+          147,
+          148
+        ]
+      },
+      {
+        "number": 2,
+        "t": "To contrast the demeanor of Austen's clergy-man brothers James and Henry with that of Mr. Collins, the much-abused figure of fun in Pride and Prejudice, is instructive, for where the Austen brothers were properly (i) ______ to their social superiors and benevolent to their dependents, the odious Mr. Collins was invariably (ii) ______ to his betters, fawning in particular on his patron, Lady Catherine de Burgh.",
+        "o": [
+          "A. deferential",
+          "B. similar",
+          "C. jejune",
+          "D. derivative",
+          "E. sycophantic",
+          "F. atypical"
+        ],
+        "translation": "对照奥斯汀两位牧师兄弟与《傲慢与偏见》中的柯林斯很有启发：兄弟二人对上级礼貌尊重、对下属仁厚，柯林斯却总向权贵谄媚，尤其巴结其庇护人凯瑟琳夫人。",
+        "grammar": "To contrast ... 作主语；that 代指 demeanor。where 在 for 后引对照，properly 和 odious 分别规定正负评价。",
+        "reason": "A deferential、E sycophantic。合宜敬重与过分谄媚须区分；fawning 直接解释后空。similar、atypical 不能表达对权贵的态度。",
+        "sourcePages": [
+          147,
+          148
+        ]
+      },
+      {
+        "number": 3,
+        "t": "The difficulty for nineteenth-century advocates of the claim that forests helped regulate climate was that their argument (i) ______ historical anecdote and observations. Proving the forest-climate link through verifiable and experimental scientific means rather than observation was (ii) ______ for these individuals, a situation that eventually led to the link (iii) ______ justifications for forest conservation.",
+        "o": [
+          "A. lacked",
+          "B. discounted",
+          "C. employed",
+          "D. problematic",
+          "E. unnecessary",
+          "F. straightforward",
+          "G. being revived in",
+          "H. dropping out of",
+          "I. losing out to"
+        ],
+        "translation": "十九世纪倡导森林调节气候者的困难在于，论证依赖历史轶事和观察；对他们而言，用可验证的实验方法证明两者联系很难，最终这一联系逐渐退出森林保护的理由清单。",
+        "grammar": "that forests ... 是 claim 的内容；Proving ... 作第二句主语。rather than 区分实验与观察；a situation that ... 总结证明困难及其后果。",
+        "reason": "C employed、D problematic、H dropping out of。依赖观察却缺乏实验证明，使论据失去地位；straightforward 会削弱后续被弃用的因果关系。",
+        "sourcePages": [
+          147,
+          148
+        ]
+      },
+      {
+        "number": 4,
+        "t": "The ______ of biographies of antebellum capitalists is particularly striking in contrast with the abundance of life stories of industrialists in later eras.",
+        "o": [
+          "A. brevity",
+          "B. banality",
+          "C. utility",
+          "D. paucity",
+          "E. triteness",
+          "F. dearth"
+        ],
+        "translation": "相比后来各时期工业家生平故事的丰富，内战前资本家传记的匮乏尤其醒目。",
+        "grammar": "主语是空格名词，of biographies 修饰它；in contrast with ... 提供数量对照，非传记质量对照。",
+        "reason": "D paucity、F dearth，均为缺乏。abundance 的反义直接锁定；brevity 指单篇短，不等于传记数量少。",
+        "sourcePages": [
+          147,
+          148
+        ]
+      },
+      {
+        "number": 5,
+        "t": "Those who read Empson's correspondence for the first time may be disappointed that so much of it is professional rather than personal, but the distinction in this case is ______: every letter bears the full stamp of Empson's personality.",
+        "o": [
+          "A. unambiguous",
+          "B. artificial",
+          "C. significant",
+          "D. spurious",
+          "E. clear-cut",
+          "F. unique"
+        ],
+        "translation": "初读恩普森书信者可能失望于其职业内容多、私人内容少；但这种区分其实人为且站不住脚，因为每封信都充分体现其个性。",
+        "grammar": "that 引失望的原因；but 转折否定先前区分。every letter ... 解释为何职业书信同样个人化。",
+        "reason": "B artificial、D spurious，均指人为而不真实成立。personality 渗透每封信，打破专业与私人二分；unambiguous、clear-cut 恰好支持该区分。",
+        "sourcePages": [
+          147,
+          148
+        ]
+      },
+      {
+        "number": 6,
+        "t": "Sports stars are often ______ figures, regarded as representative of the city or country for which they compete.",
+        "o": [
+          "A. totemic",
+          "B. iconoclastic",
+          "C. protean",
+          "D. idealized",
+          "E. irreverent",
+          "F. emblematic"
+        ],
+        "translation": "体育明星常是具有象征意义的人物，被视为其所代表城市或国家的化身。",
+        "grammar": "regarded as ... 是过去分词补充说明 figures；for which they compete 修饰 city or country。",
+        "reason": "A totemic、F emblematic，均为象征性的。representative 是直接同义线索；idealized 是被理想化，题干未说明受到美化。",
+        "sourcePages": [
+          147,
+          148
+        ]
+      },
+      {
+        "number": 7,
+        "t": "Upon realizing that the indicators of a stressful situation can be extremely ______, the psychologist reconsidered her claim that a reliable way of reducing stress is to recognize stressful situations and then avoid them.",
+        "o": [
+          "A. acute",
+          "B. exiguous",
+          "C. persistent",
+          "D. overstated",
+          "E. tenuous",
+          "F. unrelenting"
+        ],
+        "translation": "意识到压力情境的迹象可能极其微弱后，心理学家重新考虑了自己的主张，即识别并回避压力情境是可靠的减压方式。",
+        "grammar": "Upon realizing ... 表触发重新考虑的原因；that 从句解释 claim。to recognize ... and avoid ... 并列表语，them 指 situations。",
+        "reason": "B exiguous、E tenuous，均为微弱。迹象难察觉，识别回避法才不可靠；acute、persistent 是强烈或持续，通常更易识别。",
+        "sourcePages": [
+          147,
+          148
+        ]
+      }
+    ],
+    "sourcePages": [
+      147,
+      148
+    ]
+  },
+  {
+    "id": 68,
+    "answers": [
+      "E",
+      "BD",
+      "AEH",
+      "BFH",
+      "BE",
+      "AB",
+      "BD"
+    ],
+    "kinds": [
+      "single",
+      "multi",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "The science community's perennial lament over inadequate budgets has come to seem increasingly ______ because government support for science and engineering has never been greater.",
+        "o": [
+          "A. vital",
+          "B. hopeless",
+          "C. poignant",
+          "D. condescending",
+          "E. disingenuous"
+        ],
+        "translation": "科学界长年哀叹预算不足，如今越来越显得言不由衷，因为政府对科学和工程的支持已达历史最高水平。",
+        "grammar": "主语 lament，over inadequate budgets 说明抱怨内容；has come to seem 描述评价变化。because 给出怀疑其真诚的依据。",
+        "reason": "E disingenuous（不真诚的）。声称不足与支持空前形成反差；hopeless 是绝望，不解释抱怨为何不可信。",
+        "sourcePages": [
+          149,
+          150
+        ]
+      },
+      {
+        "number": 2,
+        "t": "Many scholars have argued that the United States Supreme Court usually (i) ______ public opinion in its decisions because it fears that it will (ii) ______ if it does not: when it does depart from public opinion, it whips up political maelstrom.",
+        "o": [
+          "A. comments on",
+          "B. hews to",
+          "C. overrides",
+          "D. lose public support",
+          "E. mitigate public anger",
+          "F. create public indifference"
+        ],
+        "translation": "许多学者认为，美国最高法院通常在判决中遵循民意，因为担心不这样做会失去公众支持；一旦偏离民意，就会激起政治风暴。",
+        "grammar": "because 引法院动机；if it does not 省略 follow public opinion。冒号后 when 从句用实际后果补充理由。",
+        "reason": "B hews to、D lose public support。depart from 后起风暴，说明平时要顺应民意以保支持；overrides 是凌驾于民意，与 fears 的作用相反。",
+        "sourcePages": [
+          149,
+          150
+        ]
+      },
+      {
+        "number": 3,
+        "t": "In a view of 17 studies from 2008, Trudeau and Shephard concluded that reserving up to an hour a day for (i) ______ in school curricula does not (ii) ______ academic achievement. in fact, they noted that more exercise often (iii) ______ school performance, despite the time it took away from reading, writing, and arithmetic.",
+        "o": [
+          "A. physical activity",
+          "B. leisure time",
+          "C. open study",
+          "D. contribute to",
+          "E. detract from",
+          "F. correlate with",
+          "G. diminished",
+          "H. augmented",
+          "I. counteracted"
+        ],
+        "translation": "特鲁多和谢泼德汇总十七项研究后认为，每天在学校课程中安排至多一小时体育活动，不会损害学业；实际上，运动虽占用读写算时间，却常提高在校表现。",
+        "grammar": "concluded that 后 reserving ... 作主语；does not 否定 detract。despite 引出占时这一让步条件，more exercise 为后句主语。【原书核对】原书第148页确印 In a view of 17 studies from 2008；未默改 review。",
+        "reason": "A physical activity、E detract from、H augmented。more exercise 明示首空；In fact 从“不损害”递进到“促进”，不能选 diminished。",
+        "sourcePages": [
+          149,
+          150
+        ]
+      },
+      {
+        "number": 4,
+        "t": "Anna Gavalda's fiction is appealing largely because of her writing styles, which is certainly (i) ______. It is heavy on dialogue (and light on embellishment), features very short sections (of often only a few sentence) in rapid succession, and in general favors an unadorned directness. Not surprisingly, this style works better in short-story form than in novels, and the story collection I Wish Someone Were Waiting for me Somewhere (ii) ______ her attempt to (iii) ______ it in a novel, as in, for example, Someone I Loved.",
+        "o": [
+          "A. annoying",
+          "B. distinctive",
+          "C. convoluted",
+          "D. is thought to precede",
+          "E. fails in comparison with",
+          "F. impresses considerably more than",
+          "G. undermine",
+          "H. sustain",
+          "I. reject"
+        ],
+        "translation": "加瓦尔达的小说吸引人，很大程度在于其鲜明文风：对话多、修饰少，短段接连出现，表达直接。这种风格更适合短篇，因此她的短篇集比尝试在长篇《我爱过的人》中持续这种写法更出色。",
+        "grammar": "which 修饰 writing styles；heavy、features、favors 描述同一风格。Not surprisingly 承接“短篇更适合”，her attempt to sustain it 是比较对象，it 指文风。【原书核对】原书第149页确为 writing styles, which is 和 a few sentence，数不一致，依原书保留。",
+        "reason": "B distinctive、F impresses considerably more than、H sustain。对话密集、短段直接体现独特性；短篇胜于长篇，故在长篇维持此风格效果较弱。",
+        "sourcePages": [
+          149,
+          150
+        ]
+      },
+      {
+        "number": 5,
+        "t": "The unique human ability to rethink and revise our social arrangements is a weird blessing, allowing us to create systems that are as likely to ______ us as to liberate us.",
+        "o": [
+          "A. cheer",
+          "B. shackle",
+          "C. admonish",
+          "D. educate",
+          "E. stifle",
+          "F. enliven"
+        ],
+        "translation": "人类有重新思考、修改社会安排的独特能力，这是一种古怪的福分：它让我们创造的制度既可能解放我们，也同样可能束缚、压抑我们。",
+        "grammar": "allowing ... 为结果分词；systems 后 that 引定语从句。as likely to A as to B 比较两种结果的可能性。",
+        "reason": "B shackle、E stifle，均为束缚压制。weird blessing 要同时有利有弊，与 liberate 对立；cheer、enliven 都是积极结果。",
+        "sourcePages": [
+          149,
+          150
+        ]
+      },
+      {
+        "number": 6,
+        "t": "Because movie studios, under pressure to generate international sales, have favored big-budget pictures with fantasy plots, the representation of everyday domestic life has largely been ______ other media, such as television and literature.",
+        "o": [
+          "A. left to",
+          "B. ceded to",
+          "C. ascribed to",
+          "D. attributed to",
+          "E. substituted for",
+          "F. replaced with"
+        ],
+        "translation": "电影公司受国际销售压力影响，偏爱高预算奇幻影片，因此日常家庭生活的呈现大多让给了电视、文学等其他媒介。",
+        "grammar": "Because 引原因；under pressure ... 插入说明 studios。主句主语 representation，has been left/ceded to 为被动表达。",
+        "reason": "A left to、B ceded to，均为交给、让给。电影转向奇幻，日常内容转移到别的媒介；ascribed/attributed to 指归因，非创作分工。",
+        "sourcePages": [
+          149,
+          150
+        ]
+      },
+      {
+        "number": 7,
+        "t": "The life of a secret agent is dangerous enough, but the life of a double agent is infinitely more ______: a single slip can send an agent crashing to destruction.",
+        "o": [
+          "A. arduous",
+          "B. precarious",
+          "C. clandestine",
+          "D. perilous",
+          "E. covert",
+          "F. exhilarating"
+        ],
+        "translation": "秘密特工的生活已经够危险，双面间谍则更加险恶；一次失误就可能使其彻底毁灭。",
+        "grammar": "dangerous enough ... but ... more 构成递进转折；后半句用 single slip 的后果解释风险。",
+        "reason": "B precarious、D perilous，均为危险、岌岌可危。不是单纯更 arduous（艰难）或更 clandestine/covert（隐秘），重点是毁灭风险。",
+        "sourcePages": [
+          149,
+          150
+        ]
+      }
+    ],
+    "sourcePages": [
+      149,
+      150
+    ]
+  },
+  {
+    "id": 69,
+    "answers": [
+      "E",
+      "BE",
+      "BFG",
+      "AB",
+      "BF",
+      "AE",
+      "BF"
+    ],
+    "kinds": [
+      "single",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "The physical layout of the laboratory, although well adapted to the research being pursued when it was built, was not ______, making a thorough redesign necessary before a proposed new experimental program could be undertaken.",
+        "o": [
+          "A. compromised",
+          "B. imprecise",
+          "C. convoluted",
+          "D. ubiquitous",
+          "E. plastic"
+        ],
+        "translation": "实验室布局虽适合建造时进行的研究，却缺乏可调整性；开展拟议的新实验项目前，必须彻底重新设计。",
+        "grammar": "although well adapted ... 为省略让步从句；when it was built 修饰当时背景。making ... necessary 表前面状况导致的结果。",
+        "reason": "E plastic（可塑、可调整的）。旧布局不能适应新任务，故需重设计；ubiquitous 是无处不在，与适应性无关。",
+        "sourcePages": [
+          151,
+          152,
+          153
+        ]
+      },
+      {
+        "number": 2,
+        "t": "Shirky argues that the Internet (i) ______ the need for hierarchical structures and the sluggish organizations that (ii) ______ them: the Internet makes it possible to do things cheaply and efficiently on one's own.",
+        "o": [
+          "A. delineates",
+          "B. obviates",
+          "C. redoubles",
+          "D. circumvent",
+          "E. perpetuate",
+          "F. undervalue"
+        ],
+        "translation": "舍基认为，互联网使等级结构及维系它们的迟缓组织不再必要，因为个人如今能自行廉价、高效地办事。",
+        "grammar": "that perpetuate ... 修饰 organizations，them 指 hierarchical structures。冒号后说明个人办事能力改变组织必要性。",
+        "reason": "B obviates、E perpetuate。个人自办消除对等级组织的需要，迟缓组织则延续等级结构；redoubles 是加倍需求，方向相反。",
+        "sourcePages": [
+          151,
+          152,
+          153
+        ]
+      },
+      {
+        "number": 3,
+        "t": "Some climatologists dismiss as (i) ______ the debate among geophysicists over the role of carbon dioxide in global climate change across many millions of years. These climatologists say the evidence of a tie between carbon dioxide and planetary warming over the last few centuries is so (ii) ______ that any longer-term evidence against such a link must somehow be (iii) ______.",
+        "o": [
+          "A. unavoidable",
+          "B. irrelevant",
+          "C. undecidable",
+          "D. unlikely",
+          "E. controversial",
+          "F. compelling",
+          "G. tainted",
+          "H. accommodated",
+          "I. reinforced"
+        ],
+        "translation": "一些气候学家认为，地球物理学界关于数百万年尺度二氧化碳作用的争论无关紧要。他们说，近几世纪二氧化碳与升温的联系证据如此有说服力，以至更长期的反面证据必定有问题。",
+        "grammar": "dismiss ... as ... 表评价；so compelling that ... 为程度结果。any longer-term evidence against ... 是后句主语，must somehow 表这些学者的推断。",
+        "reason": "B irrelevant、F compelling、G tainted。坚信近期证据，便把长期争议视为无关，把反证视为受污染；accommodated 是接纳反证，不合 dismiss 的立场。",
+        "sourcePages": [
+          151,
+          152,
+          153
+        ]
+      },
+      {
+        "number": 4,
+        "t": "Baker was struck by the amount of ______ she saw at the renowned medical facility, for all their experience, the physicians could not seem to agree on the correct diagnosis for any given patient.",
+        "o": [
+          "A. discordance",
+          "B. contention",
+          "C. quackery",
+          "D. nepotism",
+          "E. indecision",
+          "F. cronyism"
+        ],
+        "translation": "贝克对这家著名医疗机构内部的分歧之多感到惊讶：医生虽经验丰富，却似乎无法对任何患者的正确诊断达成一致。",
+        "grammar": "was struck by 表惊讶；she saw 修饰 amount。for all their experience 是“尽管经验丰富”，不是“由于经验”。",
+        "reason": "A discordance、B contention，均为不一致、争执。could not agree 是直接证据；indecision 是犹豫不决，不一定涉及多人意见冲突。",
+        "sourcePages": [
+          151,
+          152,
+          153
+        ]
+      },
+      {
+        "number": 5,
+        "t": "The book captures the ______ of several politicians who spoke publicly of old-time virtues in order to mask private vices.",
+        "o": [
+          "A. probity",
+          "B. dissemblance",
+          "C. opportunism",
+          "D. rectitude",
+          "E. ingenuousness",
+          "F. duplicity"
+        ],
+        "translation": "这本书揭示了几位政客的虚伪：他们公开宣扬传统美德，以掩饰私下的恶行。",
+        "grammar": "who 修饰 politicians；in order to mask ... 表公开谈美德的真实目的。publicly 与 private、virtues 与 vices 两组对照。",
+        "reason": "B dissemblance、F duplicity，均为伪装、表里不一。probity、rectitude 是正直，只有公开形象符合，无法概括实际行为。",
+        "sourcePages": [
+          151,
+          152,
+          153
+        ]
+      },
+      {
+        "number": 6,
+        "t": "Three of the nation's largest airlines could be operating under bankruptcy protection in coming weeks, analysts say, the latest sign of the industry's ______ as it lurches through a historic transformation.",
+        "o": [
+          "A. upheaval",
+          "B. exorbitance",
+          "C. affluence",
+          "D. peril",
+          "E. convulsion",
+          "F. opulence"
+        ],
+        "translation": "分析人士说，未来几周全国三家最大航空公司可能进入破产保护；这是行业在历史性转型中踉跄前进、剧烈动荡的最新迹象。",
+        "grammar": "could be operating 为将来可能状态；the latest sign 同位补充整项事件。as it lurches ... 中 it 指 industry。",
+        "reason": "A upheaval、E convulsion，均为剧变动荡。破产加 lurches 提示不稳定；affluence、opulence 是富足，与经济困境相反。",
+        "sourcePages": [
+          151,
+          152,
+          153
+        ]
+      },
+      {
+        "number": 7,
+        "t": "Given that the department director was such a feeble contributor, sitting silently at important policy meetings and usually deferring to low-level aides, it was surprising that he had such a reputation for ______.",
+        "o": [
+          "A. magnanimity",
+          "B. perspicacity",
+          "C. impartiality",
+          "D. detachment",
+          "E. benevolence",
+          "F. discernment"
+        ],
+        "translation": "部门主任贡献薄弱，在重要政策会上默不作声，又常听命于低级别助手，因此他竟以洞察敏锐著称，令人惊讶。",
+        "grammar": "Given that ... 给定事实；sitting ... 与 deferring ... 补充表现。it was surprising that ... 用形式主语引出反差。",
+        "reason": "B perspicacity、F discernment，均为敏锐判断力。消极依从的行为与高明洞察的声誉反差最大；magnanimity、benevolence 是仁厚，题干未涉及待人。",
+        "sourcePages": [
+          151,
+          152,
+          153
+        ]
+      }
+    ],
+    "sourcePages": [
+      151,
+      152,
+      153
+    ]
+  },
+  {
+    "id": 70,
+    "answers": [
+      "C",
+      "BE",
+      "CEG",
+      "CEG",
+      "AB",
+      "DE",
+      "AF"
+    ],
+    "kinds": [
+      "single",
+      "multi",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "Not only was Jarry ______ the pandemonium his play sparkled, he actually worked to foment the conflict, organizing a posse to boo if the rest of the audience applauded and cheer if the other attendees booed.",
+        "o": [
+          "A. riled by",
+          "B. surprised by",
+          "C. unperturbed by",
+          "D. critical of",
+          "E. detached from"
+        ],
+        "translation": "贾里不但不被自己的戏剧引发的骚乱扰乱，反而主动煽动冲突：他组织一伙人，别人鼓掌就喝倒彩，别人喝倒彩就欢呼。",
+        "grammar": "Not only was ... 为倒装；he actually worked ... 递进。to boo ... and cheer ... 两项行动按观众反应刻意反向操作。【原书核对】原书第153页确印 his play sparkled；按上下文理解为戏剧引发的骚乱，题干不默改 sparked。",
+        "reason": "C unperturbed by（不为所扰）。主动制造冲突说明他不仅不惊慌；riled、surprised 都是受到负面影响，无法形成这种递进。",
+        "sourcePages": [
+          154,
+          155,
+          156
+        ]
+      },
+      {
+        "number": 2,
+        "t": "Boreal forest is at the southern boundary of the moss-dominated tundra, which remains characteristically treeless because its spongy surface retains water that cannot drain away through the underlying permafrost. But as temperatures rise the permafrost recedes, (i) ______ the (ii) ______ of forest.",
+        "o": [
+          "A. impairing",
+          "B. facilitating",
+          "C. decelerating",
+          "D. renewal",
+          "E. incursion",
+          "F. decline"
+        ],
+        "translation": "北方森林位于苔藓苔原的南缘；苔原表层吸水，下面永久冻土阻碍排水，因此通常无树。但气温上升、冻土退缩，会促进森林向苔原侵入。",
+        "grammar": "which 修饰 tundra；that cannot drain ... 修饰 water。But 引环境变化；facilitating ... 为退缩造成的结果。",
+        "reason": "B facilitating、E incursion。冻土障碍减少，让森林进入原本无树地带；impairing、decline 与这种条件变化相反。",
+        "sourcePages": [
+          154,
+          155,
+          156
+        ]
+      },
+      {
+        "number": 3,
+        "t": "Thinking (i) ______ about one's choices can sometimes (ii) ______ decision-making. For example, in one study in which college students selected their favorite poster from a set, those asked to explain their selection ended up less (iii) ______ their choices than those who were not asked. Researchers concluded that thinking of reasons interferes with people's ability to access gut-level reactions that are crucial to sound decision-making.",
+        "o": [
+          "A. uncritically",
+          "B. haphazardly",
+          "C. explicitly",
+          "D. speed the process of",
+          "E. reduce satisfaction with",
+          "F. enhance the quality of",
+          "G. happy with",
+          "H. confused by",
+          "I. concerned by"
+        ],
+        "translation": "明确思考自己的选择，有时会降低对决策的满意度。例如，让学生解释为何选某海报，结果他们比未被要求解释者更不满意；研究者认为，寻找理由会干扰对合理决策至关重要的直觉反应。",
+        "grammar": "those asked ... 指被要求解释的学生；less ... than ... 比较满意度。that are crucial ... 修饰 gut-level reactions，不是修饰 reasons。",
+        "reason": "C explicitly、E reduce satisfaction with、G happy with。解释理由对应明确思考，less happy 表满意下降；uncritically 是不加批判，不能等同解释理由。",
+        "sourcePages": [
+          154,
+          155,
+          156
+        ]
+      },
+      {
+        "number": 4,
+        "t": "Based on the evidence available, It would be (i) ______ to insist on a wholly negative portrayal of King Prajadhipok. in his own writings and pronouncements as well as in firsthand accounts offered by others, Prajadhipok consistently emerges as (ii) ______ and even-tempered, though (iii) ______.",
+        "o": [
+          "A. accurate",
+          "B. convenient",
+          "C. facile",
+          "D. whimsical",
+          "E. thoughtful",
+          "F. ingenious",
+          "G. unexceptional",
+          "H. vicious",
+          "I. innovative"
+        ],
+        "translation": "依据现有证据，把巴差提朴国王完全描绘成负面人物过于简单化。其文字、言论和他人亲述中，他一贯显得深思熟虑、性情平和，虽然并不出众。",
+        "grammar": "it would be ... to insist ... 为形式主语；emerges as 后两项正面特点并列。though 后补充不够杰出的限制。",
+        "reason": "C facile、E thoughtful、G unexceptional。存在正面证据，故全盘否定流于草率；虽非卓越仍深思温和，不是 vicious（恶毒）。",
+        "sourcePages": [
+          154,
+          155,
+          156
+        ]
+      },
+      {
+        "number": 5,
+        "t": "As astronomers do not yet have a good understanding of the fundamental nature of dark matter, it should not be a surprise that astronomy students' ideas about dark matter are, at best, ______.",
+        "o": [
+          "A. superficial",
+          "B. sketchy",
+          "C. inconsistent",
+          "D. mistaken",
+          "E. outdated",
+          "F. far-fetched"
+        ],
+        "translation": "天文学家尚未充分理解暗物质的本质，所以学生关于暗物质的认识充其量只是浅略、不完整，也就不足为奇。",
+        "grammar": "As 引原因；it should not be a surprise that ... 为形式主语。at best 表最好也不过如此，限定认识深度。",
+        "reason": "A superficial、B sketchy，均为浅略。专家也缺乏深刻认识，学生知识只能粗略；mistaken、inconsistent 指错误或矛盾，不是知识不足必然结果。",
+        "sourcePages": [
+          154,
+          155,
+          156
+        ]
+      },
+      {
+        "number": 6,
+        "t": "With regard to verity, neutrality, and transparency, nothing about the Internet makes it any different than Gutenberg's printing press, which could serve ______ just as well as truth.",
+        "o": [
+          "A. fantasy",
+          "B. bureaucracy",
+          "C. protocol",
+          "D. disinformation",
+          "E. mendacity",
+          "F. panic"
+        ],
+        "translation": "就真实性、中立性和透明度而言，互联网并不比古腾堡印刷机更特殊；印刷机既可传播真相，也同样可为虚假信息服务。",
+        "grammar": "nothing ... makes it ... 否定媒介本身的特殊性；which 修饰 printing press。just as well as 表两种传播用途同样可行。",
+        "reason": "D disinformation、E mendacity，均指虚假欺骗。与 truth 对照；fantasy 是虚构幻想，未必以欺骗为目的。",
+        "sourcePages": [
+          154,
+          155,
+          156
+        ]
+      },
+      {
+        "number": 7,
+        "t": "The author advocates a diminished role for philosophy, aiming to show that many of the questions traditionally debated among philosophers can be ______ the realm of scientific inquiry.",
+        "o": [
+          "A. ceded to",
+          "B. inferred from",
+          "C. relevant to",
+          "D. initiated by",
+          "E. germane to",
+          "F. left to"
+        ],
+        "translation": "作者主张缩小哲学的角色，试图说明传统上许多哲学争论的问题，可以交给科学研究处理。",
+        "grammar": "aiming to show ... 说明倡议目的；traditionally debated ... 修饰 questions。can be ceded/left to 为把问题移交另一领域的被动表达。",
+        "reason": "A ceded to、F left to，均为交给。科学接管问题才缩小哲学角色；relevant/germane to 只表示相关，未说明职责转移。",
+        "sourcePages": [
+          154,
+          155,
+          156
+        ]
+      }
+    ],
+    "sourcePages": [
+      154,
+      155,
+      156
+    ]
+  },
+  {
+    "id": 71,
+    "answers": [
+      "B",
+      "CD",
+      "CFG",
+      "AF",
+      "EF",
+      "AC",
+      "CF"
+    ],
+    "kinds": [
+      "single",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "Though acquaintances are first overwhelmed by his ______, they soon appreciate that, contrary to appearances, he is not without self-interest.",
+        "o": [
+          "A. egotism",
+          "B. magnanimity",
+          "C. ambition",
+          "D. profligacy",
+          "E. brilliance"
+        ],
+        "translation": "初识他的人起初为其宽宏慷慨所震撼，但很快就看出，表象之下他并非没有私心。",
+        "grammar": "Though 表让步；appreciate that ... 意为意识到，而非欣赏。not without self-interest 是双重否定，即仍有私心。",
+        "reason": "B magnanimity（宽宏大量）。无私慷慨的表象与实际私心形成反差；egotism 本就自我中心，无须 contrary to appearances。",
+        "sourcePages": [
+          157,
+          158
+        ]
+      },
+      {
+        "number": 2,
+        "t": "It is unfortunate that essays by literary critics so infrequently (i) ______ the opinions of novelists and poets, for creative writers are often quite (ii) ______ about their own philosophies and are frequently more familiar with alternative systems of thought than critics are.",
+        "o": [
+          "A. influence",
+          "B. challenge",
+          "C. incorporate",
+          "D. articulate",
+          "E. inconsistent",
+          "F. prejudiced"
+        ],
+        "translation": "文学批评家的文章很少吸纳小说家与诗人的意见，实在可惜；创作者常能清楚表达自己的理念，也往往比批评家更熟悉其他思想体系。",
+        "grammar": "It is unfortunate that ... 为形式主语；for 引惋惜的理由。两个 are ... and are ... 并列说明创作者的思想表达能力和知识范围。",
+        "reason": "C incorporate、D articulate。作者有清楚且广博的思想，故批评文章理应吸收其意见；inconsistent、prejudiced 会削弱“未采纳很可惜”的理由。",
+        "sourcePages": [
+          157,
+          158
+        ]
+      },
+      {
+        "number": 3,
+        "t": "There is (i) ______ evidence that the giant African land snail a. fulica is a serious threat to the spread of human disease. Giant snails do carry rat lungworm—infection by which is a common cause of meningitis—but so do many other snail species. Moreover, if the threat posed by a. fulica were (ii) ______, one would expect to see an increase in disease rates (iii) ______ a rise in the spread of snails. However, in places like New Caledonia, explosions in giant snail populations have coincided with a fall in the number of meningitis cases.",
+        "o": [
+          "A. abundant",
+          "B. ambiguous",
+          "C. little",
+          "D. contained",
+          "E. recognized",
+          "F. major",
+          "G. corresponding to",
+          "H. predating",
+          "I. giving way to"
+        ],
+        "translation": "几乎没有证据说明非洲大蜗牛严重推动人类疾病传播。它确实携带可引发脑膜炎的鼠肺线虫，但许多其他蜗牛也如此；若其威胁很大，疾病应随蜗牛扩散增加，然而新喀里多尼亚等地蜗牛暴增却伴随病例下降。",
+        "grammar": "do carry 为强调肯定，but so do ... 指其他物种也携带。if ... were ... would expect ... 为假设推理；However 引反例否定预期。",
+        "reason": "C little、F major、G corresponding to。蜗牛增加、疾病反降，反驳强威胁论；对应增加是该论应有预测，不能选 predating（早于）。",
+        "sourcePages": [
+          157,
+          158
+        ]
+      },
+      {
+        "number": 4,
+        "t": "In Ramachandran's opinion, it is perfectly acceptable to propose bold speculations about the brain, even if these speculations seem ______ ; as Ramachandran frequently remarks, science thrives on risky conjecture.",
+        "o": [
+          "A. unfounded",
+          "B. premature",
+          "C. controversial",
+          "D. verifiable",
+          "E. testable",
+          "F. baseless"
+        ],
+        "translation": "拉马钱德兰认为，提出关于大脑的大胆猜想完全可以接受，即便猜想看似缺乏依据；正如他常说的，科学凭冒险性的推测而兴盛。",
+        "grammar": "it is acceptable to ... 为形式主语；even if 引极端让步。as ... remarks 引述其理由，thrives on 指依靠某物兴盛。",
+        "reason": "A unfounded、F baseless，均为无根据。risky conjecture 与大胆假设呼应；verifiable、testable 是可验证，不构成 even if 所需的疑虑。",
+        "sourcePages": [
+          157,
+          158
+        ]
+      },
+      {
+        "number": 5,
+        "t": "In order to cultivate new repertoire, the music industry is providing a hearing for previously ______ composers.",
+        "o": [
+          "A. idle",
+          "B. thwarted",
+          "C. celebrated",
+          "D. renowned",
+          "E. anonymous",
+          "F. obscure"
+        ],
+        "translation": "为培育新的演出曲目，音乐界正让先前默默无闻的作曲家获得被听见的机会。",
+        "grammar": "In order to 表目的；providing a hearing for 为让作品被聆听、让作者受关注；previously 标出过去状态。",
+        "reason": "E anonymous、F obscure，均为不知名。新曲目来自尚未被熟知者；celebrated、renowned 是成名的，与 previously 未被听见的意味相反。",
+        "sourcePages": [
+          157,
+          158
+        ]
+      },
+      {
+        "number": 6,
+        "t": "The concert hall's suspended ceiling is two-inch-thick plaster that reflects low-frequency sound energy, similarly, all wall surfaces are angled and shaped to ______ sound from the stage throughout the audience area.",
+        "o": [
+          "A. diffuse",
+          "B. amplify",
+          "C. spread",
+          "D. dampen",
+          "E. eclipse",
+          "F. deaden"
+        ],
+        "translation": "音乐厅悬吊的两英寸厚石膏天花板可反射低频声能；同样，所有墙面也经过角度和形状设计，以把舞台声音传播到整个观众区。",
+        "grammar": "that reflects ... 修饰 plaster；similarly 连接共同的声学目的。to diffuse ... 表墙面设计目的，throughout 给出覆盖范围。",
+        "reason": "A diffuse、C spread，均为扩散传播。throughout audience area 说明分布，而非 amplify（放大）；dampen、deaden 是减弱声音。",
+        "sourcePages": [
+          157,
+          158
+        ]
+      },
+      {
+        "number": 7,
+        "t": "Although many skeptics of the scientific theory ______ critiques that have long since been disproved, some of the doubters arguably bring up valid points.",
+        "o": [
+          "A. overlook",
+          "B. revise",
+          "C. recycle",
+          "D. utilize",
+          "E. neglect",
+          "F. rehash"
+        ],
+        "translation": "许多怀疑这一科学理论的人反复搬用早已被驳倒的批评，但部分质疑者确实提出了有道理的观点。",
+        "grammar": "Although 引对照；that have ... 修饰 critiques。主句 some ... bring up valid points 与前半无效批评相反。",
+        "reason": "C recycle、F rehash，均为重提旧说。long since disproved 提示陈旧批评反复出现；revise 是修订，不强调重复搬用。",
+        "sourcePages": [
+          157,
+          158
+        ]
+      }
+    ],
+    "sourcePages": [
+      157,
+      158
+    ]
+  },
+  {
+    "id": 72,
+    "answers": [
+      "D",
+      "B",
+      "AE",
+      "CDH",
+      "DF",
+      "EF",
+      "BE"
+    ],
+    "kinds": [
+      "single",
+      "single",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "When he first hypothesized the neutrino, Wolfgang Pauli's elation was not ______: he feared that he had postulated a particle hat could not be detected though his concern turned out to be overblown.",
+        "o": [
+          "A. unshared",
+          "B. untoward",
+          "C. unprecedented",
+          "D. unqualified",
+          "E. unjustified"
+        ],
+        "translation": "最初提出中微子假说时，泡利的喜悦并不毫无保留：他担心自己假定了一种无法探测的粒子，尽管后来证明这种忧虑过度了。",
+        "grammar": "When 引时间；not unqualified 为双重否定，即喜忧参半。though 从后来角度补充，让步不取消当时的担忧。【原书核对】原书第158页确为 a particle hat could not ...，缺 t 的写法保留。",
+        "reason": "D unqualified（毫无保留的）。喜悦被 fear 限制；unjustified 指没有理由，而题干只说夹杂顾虑，并未否定发现带来的喜悦。",
+        "sourcePages": [
+          159,
+          160,
+          161
+        ]
+      },
+      {
+        "number": 2,
+        "t": "In 1831, a domestic insurrection that had stirred central Italy was squelched by the Austrian army, but while this invasion destroyed the immediate results of the movement, it could not ______ the insurrections causes, which continued to be felt.",
+        "o": [
+          "A. ignore",
+          "B. extirpate",
+          "C. fathom",
+          "D. anticipate",
+          "E. underscore"
+        ],
+        "translation": "1831年，奥地利军队镇压了意大利中部的起义；入侵虽摧毁运动的直接成果，却无法根除其原因，后者仍持续产生影响。",
+        "grammar": "while ... destroyed ... 与 could not ... 构成让步对比；which continued ... 回指 causes，不是回指军队。",
+        "reason": "B extirpate（根除）。原因仍存在，说明镇压不能将其消除；ignore、fathom 分别是忽视、理解，不表达消灭根源。",
+        "sourcePages": [
+          159,
+          160,
+          161
+        ]
+      },
+      {
+        "number": 3,
+        "t": "As late as the 1990s, Merry Wiesner Hanks argued that developments during the Reformation and the Enlightenment had (i) ______ effects on the participation of women in the field of medicine. She claimed that the (ii) ______ Reformation and Enlightenment women left female health's practitioners restricted to assisting in an unpaid and unrecognized capacity.",
+        "o": [
+          "A. dire",
+          "B. positive",
+          "C. ambiguous",
+          "D. unchanging opportunities for",
+          "E. worsening positions of",
+          "F. reader respect for"
+        ],
+        "translation": "直到二十世纪九十年代，维斯纳-汉克斯仍认为，宗教改革和启蒙运动的发展对女性参与医学产生了严重负面影响：女性地位恶化，使医疗领域女性只能担任无薪且不被认可的助手。",
+        "grammar": "argued that ... 引观点；claimed that ... 以第二句展开。left ... restricted to ... 表让某人局限于某种职能；原书第二句语序不规范，按上下文解释。【原书核对】原书第158页第二句确为 the ... Reformation and Enlightenment women left female health’s practitioners ...，句法有瑕疵；F确印 reader respect for。均照录，答案依据 unpaid、unrecognized 等负面线索。",
+        "reason": "A dire、E worsening positions of。unpaid、unrecognized、restricted 都为负面结果；positive、reader respect for 不能解释地位受损。",
+        "sourcePages": [
+          159,
+          160,
+          161
+        ]
+      },
+      {
+        "number": 4,
+        "t": "This book cannot be evaluated properly without examining the author's choice of format, which is the (i) ______ of the format of standard academic works; here the photographs take center stage, with the text playing only a supporting role. This layout poses many dangers for the serious historian, not the least of which being the (ii) ______ reception that academics—motivated partly by (iii) ______ but also by genuine concern over scholarly standards—generally reserve for books apparently aimed at the popular market.",
+        "o": [
+          "A. duplicate",
+          "B. epitome",
+          "C. inverse",
+          "D. scornful",
+          "E. deferential",
+          "F. good-natured",
+          "G. academic integrity",
+          "H. snobbish elitism",
+          "I. collegial sympathy"
+        ],
+        "translation": "评价本书必须考虑其形式选择：与标准学术著作相反，它以照片为中心、文字为辅助。这给严肃历史作者带来风险，尤其是学界常对面向大众的书嗤之以鼻，既因为势利的精英心态，也因为真正在意学术标准。",
+        "grammar": "which is ... 修饰 format；with the text playing ... 为伴随结构。that academics ... reserve 修饰 reception，破折号内两个动机修饰 academics。",
+        "reason": "C inverse、D scornful、H snobbish elitism。照片取代文字主导是颠倒；genuine concern 与另一较负面的动机并列，故为精英势利而非 academic integrity。",
+        "sourcePages": [
+          159,
+          160,
+          161
+        ]
+      },
+      {
+        "number": 5,
+        "t": "After the Turkish Republic was established, traditional hamars (bathhouses) seemed to many Turks to be outmoded, but thanks to tourism, hamars have experienced a ______, becoming important cultural sites for foreign and Turkish visitors alike.",
+        "o": [
+          "A. proliferation",
+          "B. retrenchment",
+          "C. transformation",
+          "D. revival",
+          "E. slump",
+          "F. renaissance"
+        ],
+        "translation": "土耳其共和国建立后，传统浴室曾被许多土耳其人视为过时；但旅游业促成其复兴，使其成为本国和外国游客的重要文化场所。",
+        "grammar": "After 引背景；but thanks to ... 转折并给原因；becoming ... 表复兴带来的结果。alike 表两类游客都如此。【原书核对】原书第159页确印 hamars；题干保留，按括号 bathhouses 译为浴室。",
+        "reason": "D revival、F renaissance，均为复兴。outmoded 到 important cultural sites 是衰落后重生；slump 是衰退，方向相反。",
+        "sourcePages": [
+          159,
+          160,
+          161
+        ]
+      },
+      {
+        "number": 6,
+        "t": "For wily political press officers, the art of spin is not quite supplanting truth with lies, but instead it aspires to replace awkward complexity with catchy ______ ; Successful spin creates the impression of unavoidable common sense.",
+        "o": [
+          "A. novelties",
+          "B. slogans",
+          "C. falsehoods",
+          "D. duplicity",
+          "E. simplicity",
+          "F. intelligibility"
+        ],
+        "translation": "狡猾的政治新闻官所做的包装，并非简单用谎言取代真相，而是用朗朗上口、易于理解的简化说法取代棘手的复杂性，让其看似不言自明的常识。",
+        "grammar": "not ... but instead ... 更正对 spin 的理解；replace A with B 是用B替代A。分号后说明成功包装的效果。",
+        "reason": "E simplicity、F intelligibility，均对应简明易懂。直接对照 complexity；slogans 虽可能 catchy，却不与其他选项构成同义对，falsehoods 已被前半排除。",
+        "sourcePages": [
+          159,
+          160,
+          161
+        ]
+      },
+      {
+        "number": 7,
+        "t": "British composer Benjamin Britter would seem to have ______ place in the cultural pantheon, yet, at the same time that place is still contested by some.",
+        "o": [
+          "A. an illustrious",
+          "B. an assured",
+          "C. a precarious",
+          "D. a modest",
+          "E. a settled",
+          "F. a tenuous"
+        ],
+        "translation": "英国作曲家本杰明·布里特似乎已在文化名人殿堂中占据稳固地位，然而同一地位仍受某些人质疑。",
+        "grammar": "would seem to ... 表表面判断；yet 转折。that place 回指前述位置，contested 表被争议。【原书核对】原书第160页确印 Benjamin Britter；不自行改成常见人名拼写。",
+        "reason": "B an assured、E a settled，均为稳固确定。与 contested 相反；precarious、tenuous 本就不稳，无法构成转折。",
+        "sourcePages": [
+          159,
+          160,
+          161
+        ]
+      }
+    ],
+    "sourcePages": [
+      159,
+      160,
+      161
+    ]
+  },
+  {
+    "id": 73,
+    "answers": [
+      "D",
+      "BD",
+      "AEH",
+      "EF",
+      "CD",
+      "AB",
+      "DF"
+    ],
+    "kinds": [
+      "single",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "Since many prehistoric tools were made of materials, such as wood, bone, and antler, that tend to decay quickly, these archaeological specimens are ______ their stone counterparts.",
+        "o": [
+          "A. cruder than",
+          "B. derived from",
+          "C. found with",
+          "D. rarer than",
+          "E. similar to"
+        ],
+        "translation": "许多史前工具用木、骨、鹿角等易腐材料制成，因此这些考古标本比同类石器更罕见。",
+        "grammar": "Since 引原因；that tend to decay 修饰 materials。their stone counterparts 是以石料制作、功能相当的工具。",
+        "reason": "D rarer than（比……稀少）。易腐造成保存少；cruder than 涉及制作粗糙，与保存材料无直接逻辑联系。",
+        "sourcePages": [
+          162,
+          163,
+          164
+        ]
+      },
+      {
+        "number": 2,
+        "t": "High culture by itself tends to be (i) ______. Monteverdi and handle belong to concert halls all the world over, Caravaggio and Rembrandt are not defined by (ii) ______ nor can classical ballet be understood only in a proper national setting.",
+        "o": [
+          "A. unpopular",
+          "B. cosmopolitan",
+          "C. emotive",
+          "D. their country of origin",
+          "E. international stylistic trends",
+          "F. any ideals of originality"
+        ],
+        "translation": "高雅文化本身往往具有世界性：蒙特威尔第和亨德尔属于世界各地的音乐厅，卡拉瓦乔和伦勃朗不由出生国界定，古典芭蕾也不能只放在某一国家语境中理解。",
+        "grammar": "冒号后列三个例证；nor can ... 为否定倒装。their 指前述艺术家，national setting 与第二空呼应。【原书核对】原书第161页确印 handle；译文按该音乐家语境解释，题干拼写保持原样。",
+        "reason": "B cosmopolitan、D their country of origin。all the world over 和非特定国家强调跨国性；international stylistic trends 无法与末尾国家语境形成同义链。",
+        "sourcePages": [
+          162,
+          163,
+          164
+        ]
+      },
+      {
+        "number": 3,
+        "t": "The patients given a placebo in the course of clinical trials receive much more than a pharmacologically inert substance. Like the patients receiving the experimental drug, they (i) ______ a thorough medical evaluation, a chance to discuss their condition with competent professionals, a diagnosis, and a treatment plan. Although viewed by many as (ii) ______ the healing process, these factors may actually provide an important clue as to why placebo often work: they are part of an experience that can itself be a (iii) ______ illness.",
+        "o": [
+          "A. get",
+          "B. avoid",
+          "C. welcome",
+          "D. essential for",
+          "E. incidental to",
+          "F. consequences of",
+          "G. research laboratory for",
+          "H. powerful antidote to",
+          "I. breeding ground of"
+        ],
+        "translation": "临床试验中接受安慰剂的患者，所得远不止无药理活性的物质。他们同样得到全面检查、专业交流、诊断和治疗计划；这些常被视为治疗附带因素的体验，可能本身就是有力的治病手段，解释安慰剂为何有效。",
+        "grammar": "given ... 修饰 patients；Like ... 引比较，get 后四项宾语并列。Although viewed ... 中主语仍为 factors；that can ... 修饰 experience。【原书核对】原书第161页确为 placebo often work，数的写法保留。",
+        "reason": "A get、E incidental to、H powerful antidote to。两组患者都得到照护；though ... actually 对比“被当作附带”与“实际能治病”，不能选 essential for。",
+        "sourcePages": [
+          162,
+          163,
+          164
+        ]
+      },
+      {
+        "number": 4,
+        "t": "Compared with their parties, politicians are ______: they are considerably less enduring than the organizations in which they function.",
+        "o": [
+          "A. essential",
+          "B. redundant",
+          "C. crucial",
+          "D. unreliable",
+          "E. transitory",
+          "F. temporary"
+        ],
+        "translation": "相较于政党，政治人物只是暂时的存在：他们远不如其所属组织持久。",
+        "grammar": "Compared with ... 限定比较对象；冒号后用 less enduring than ... 解释空格，不是在比较重要性。",
+        "reason": "E transitory、F temporary，均为短暂。less enduring 为直接同义线索；essential、crucial 都是关键重要，未涉及寿命长短。",
+        "sourcePages": [
+          162,
+          163,
+          164
+        ]
+      },
+      {
+        "number": 5,
+        "t": "In spite of her fascination with chances, coincidence, and contingency, Stanning's novels are ______ constructed, written from the head rather than the heart.",
+        "o": [
+          "A. hastily",
+          "B. extravagantly",
+          "C. painstakingly",
+          "D. meticulously",
+          "E. evocatively",
+          "F. impulsively"
+        ],
+        "translation": "尽管斯坦宁着迷于偶然、巧合和不确定性，她的小说却精心构建，来自理性规划，而非一时情感冲动。",
+        "grammar": "In spite of 后接其兴趣；written from ... 为补充说明 novels 的构建方式。head 与 heart 为理性和感性的比喻。",
+        "reason": "C painstakingly、D meticulously，均为细致费心。偶然题材不等于随意写作；hastily、impulsively 与 from the head 的精心安排相反。",
+        "sourcePages": [
+          162,
+          163,
+          164
+        ]
+      },
+      {
+        "number": 6,
+        "t": "An abundance of nutrient-rich pollution in estuaries causes algae to ______, much as houseplants grow better when their soil contains added fertilizer.",
+        "o": [
+          "A. abound",
+          "B. proliferate",
+          "C. stagnate",
+          "D. coalesce",
+          "E. collect",
+          "F. diversify"
+        ],
+        "translation": "河口营养丰富的污染物过多，会使藻类大量繁殖，就像盆栽土壤添加肥料后长得更好。",
+        "grammar": "causes algae to ... 表结果；much as 引类比。when 从句解释 houseplants 生长较好的条件。",
+        "reason": "A abound、B proliferate，均为大量生长。营养与肥料的类比强调数量增长；coalesce、collect 是聚集，不必然繁殖。",
+        "sourcePages": [
+          162,
+          163,
+          164
+        ]
+      },
+      {
+        "number": 7,
+        "t": "The ______ nature of the approval process for new drugs suggests that incentives to promote more expeditious decision making may be necessary.",
+        "o": [
+          "A. pecuniary",
+          "B. commercial",
+          "C. arbitrary",
+          "D. sluggish",
+          "E. capricious",
+          "F. dilatory"
+        ],
+        "translation": "新药审批过程的迟缓表明，可能需要用激励措施促进更迅速的决策。",
+        "grammar": "主语 nature of the process；suggests that ... 引建议。more expeditious 与首空形成问题及改进方向的对应。",
+        "reason": "D sluggish、F dilatory，均为拖延迟缓。需要更快说明原流程慢；arbitrary、capricious 是任意多变，不能由“加快”直接解决。",
+        "sourcePages": [
+          162,
+          163,
+          164
+        ]
+      }
+    ],
+    "sourcePages": [
+      162,
+      163,
+      164
+    ]
+  },
+  {
+    "id": 74,
+    "answers": [
+      "D",
+      "BF",
+      "AF",
+      "AFI",
+      "CD",
+      "CF",
+      "BF"
+    ],
+    "kinds": [
+      "single",
+      "multi",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "For the ancient Egyptians, inequality in human society was not ______ nature, in other words, existing differences—between rich and poor, strong and weak—were not viewed as a necessary part of the natural order of things.",
+        "o": [
+          "A. superseded by",
+          "B. detectable in",
+          "C. ameliorated by",
+          "D. inherent in",
+          "E. excluded from"
+        ],
+        "translation": "对古埃及人而言，社会不平等并非自然固有；换言之，贫富、强弱之间已有的差异，不被视为自然秩序的必要组成部分。",
+        "grammar": "in other words 引同义改述；破折号列 differences 的具体内容。not ... a necessary part 解释 not inherent in。",
+        "reason": "D inherent in（内在于、固有于）。后半已明示非自然必然；detectable in 只是能否观察到，不等于是否本质固有。",
+        "sourcePages": [
+          165,
+          166
+        ]
+      },
+      {
+        "number": 2,
+        "t": "Recent years have seen a disheartening string of revelations in which everyday items once considered (i) ______ are found to contain (ii) ______ chemicals.",
+        "o": [
+          "A. ubiquitous",
+          "B. innocuous",
+          "C. insalubrious",
+          "D. benign",
+          "E. complex",
+          "F. baneful"
+        ],
+        "translation": "近年来接连出现令人沮丧的揭露：人们一度认为无害的日常用品，竟含有有害化学物质。",
+        "grammar": "in which 修饰 revelations，说明揭露内容。once considered ... 为 items 的过去分词修饰，与 are found ... 对比旧认知和新发现。",
+        "reason": "B innocuous、F baneful。曾以为无害，现发现有害才令人失望；ubiquitous 只表示常见，不制造安全认知反差。",
+        "sourcePages": [
+          165,
+          166
+        ]
+      },
+      {
+        "number": 3,
+        "t": "The novel's heroine shows a remarkable (i) ______ to worship at the altar of youth: in her world, youth is (ii) ______ while age, by contrast, confers competence and wisdom.",
+        "o": [
+          "A. disinclination",
+          "B. desire",
+          "C. tendency",
+          "D. incredulous",
+          "E. sagacious",
+          "F. callow"
+        ],
+        "translation": "小说女主人公显著不愿崇拜青春；在她的世界里，年轻意味着稚嫩，而年长反倒带来能力与智慧。",
+        "grammar": "disinclination to ... 为不愿做某事；worship at the altar of 为崇拜的比喻。while ... by contrast 对照 youth 与 age。",
+        "reason": "A disinclination、F callow。age 带智慧，与年轻不成熟对立，所以拒绝青春崇拜；desire、tendency 会与后半价值判断冲突。",
+        "sourcePages": [
+          165,
+          166
+        ]
+      },
+      {
+        "number": 4,
+        "t": "Compared with, say, the precision of a skein of geese winging its way across the autumn sky in a V formation, the seasonal marches of grazers across the Serengeti seem (i) ______ and at times even (ii) ______! But, in fact, years of careful observation by scientists have shown that there is (iii) ______ those migrations of zebras, wildebeests, and Thomson's gazelles.",
+        "o": [
+          "A. disorganized",
+          "B. purposeful",
+          "C. massive",
+          "D. illusionary",
+          "E. overwhelming",
+          "F. chaotic",
+          "G. a tendency toward aggression in",
+          "H. an undeniable grandeur to",
+          "I. a definite order to"
+        ],
+        "translation": "与秋空中雁群精确的V形编队相比，塞伦盖蒂食草动物的季节迁徙看似无组织，甚至混乱；但科学家多年细察发现，斑马、角马和汤氏瞪羚的迁徙其实有明确秩序。",
+        "grammar": "Compared with ... 引比较；even 加强前两空，But in fact 推翻表象。that there is ... 为 shown 的宾语内容。",
+        "reason": "A disorganized、F chaotic、I a definite order to。前两空为无序递进，后空以实际秩序反转；undeniable grandeur 是壮观，不能否定混乱表象。",
+        "sourcePages": [
+          165,
+          166
+        ]
+      },
+      {
+        "number": 5,
+        "t": "Explorers could not build on each other's knowledge if they could not trust the records of previous explorers; thus exploration depended on the. ______ of those who had gone before.",
+        "o": [
+          "A. collegiality",
+          "B. endurance",
+          "C. exactitude",
+          "D. meticulousness",
+          "E. eminence",
+          "F. tenacity"
+        ],
+        "translation": "如果探险者不能信任前人的记录，就无法在其知识基础上继续探索，因此探险有赖于前人记录的准确和细致。",
+        "grammar": "could not ... if ... 为条件关系；thus 引结论。build on 表在已有知识上推进，不是建造实体。",
+        "reason": "C exactitude、D meticulousness，均为精确严谨。可靠记录才能积累知识；endurance、tenacity 是坚持，不能保证资料可信。",
+        "sourcePages": [
+          165,
+          166
+        ]
+      },
+      {
+        "number": 6,
+        "t": "In Schaller's contradictory introduction to the book, she alternately applauds and ______ humankind's role in animal conservation.",
+        "o": [
+          "A. authorizes",
+          "B. endorses",
+          "C. denounces",
+          "D. discloses",
+          "E. relates",
+          "F. lambasts"
+        ],
+        "translation": "在这篇前后矛盾的序言中，沙勒一会儿赞扬、一会儿猛烈批评人类在动物保护中的作用。",
+        "grammar": "alternately A and B 表两种态度交替；contradictory 规定两态度应相反；humankind's role 是共同宾语。",
+        "reason": "C denounces、F lambasts，均为严厉谴责。与 applauds 对立；authorizes、endorses 是授权、赞同，不能形成矛盾。",
+        "sourcePages": [
+          165,
+          166
+        ]
+      },
+      {
+        "number": 7,
+        "t": "Between the late 1800s and early 1900s, various institutional structures emerged that set researchers in scientific fields apart as a professional class and moderated disputes by ______some kinds of knowledge as real.",
+        "o": [
+          "A. differing",
+          "B. sanctioning",
+          "C. mischaracterizing",
+          "D. censuring",
+          "E. reprehending",
+          "F. endorsing"
+        ],
+        "translation": "十九世纪末到二十世纪初，多种制度结构出现，把科学研究者划为专业阶层，并通过认可某些知识为真实有效，调节知识争端。",
+        "grammar": "that 引定语从句，set ... apart 与 moderated 并列。by sanctioning ... as ... 表通过官方或制度认可来调停。",
+        "reason": "B sanctioning、F endorsing，均为认可。把知识承认为 real 是确定合法性；censuring、reprehending 是谴责，不能与 as real 搭配表肯定。",
+        "sourcePages": [
+          165,
+          166
+        ]
+      }
+    ],
+    "sourcePages": [
+      165,
+      166
+    ]
+  },
+  {
+    "id": 75,
+    "answers": [
+      "D",
+      "CF",
+      "CFG",
+      "AF",
+      "CD",
+      "AC",
+      "DE"
+    ],
+    "kinds": [
+      "single",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "The cognitive flexibility of successful fictional detectives is often ______ by their cultural ambivalence: detectives' intellectual acumen, it seems, exists in direct proportion to their uneasy place in society.",
+        "o": [
+          "A. amplified",
+          "B. highlighted",
+          "C. spurred",
+          "D. matched",
+          "E. negated"
+        ],
+        "translation": "成功的虚构侦探在认知上的灵活，常与其文化归属上的矛盾相伴：其智力敏锐程度似乎与其在社会中的不安处境成正比。",
+        "grammar": "is matched by 表两特征相应；冒号后以 exists in direct proportion to ... 改述对应关系。uneasy place 是处境，不是具体座位。",
+        "reason": "D matched（相配、相应）。direct proportion 是对应关系，题干未说文化矛盾“引发”智力；spurred、amplified 额外加入因果或增强作用。",
+        "sourcePages": [
+          167,
+          168
+        ]
+      },
+      {
+        "number": 2,
+        "t": "In our daily lives, we often (i) ______ our separate identities: you can have one identity at work and another online, for example. Such (ii) ______ disappear in certain circumstances, however, resulting in a cross-pollination of our different selves.",
+        "o": [
+          "A. renounce",
+          "B. merge",
+          "C. compartmentalize",
+          "D. uncertainties",
+          "E. correlations",
+          "F. boundaries"
+        ],
+        "translation": "日常生活中，我们常把不同身份分隔开，例如工作身份与网络身份不同；但某些情况下这些边界会消失，使不同自我彼此交融。",
+        "grammar": "冒号后给 compartmentalize 的例子；Such boundaries 回指身份分隔。however 转折，resulting in ... 表边界消失的结果。",
+        "reason": "C compartmentalize、F boundaries。先分开、后跨界交融；merge 是合并，若先合并就没有后续边界消失的转折。",
+        "sourcePages": [
+          167,
+          168
+        ]
+      },
+      {
+        "number": 3,
+        "t": "Observers of modern presidential campaigns who (i) ______ the highly (ii) ______ productions that pass for campaigns these days do sometimes find reason for hope in the occasional mix-ups that (iii) ______ candidates on the trail despite the presence of political strategists plotting every event with the tactical precision of military commanders.",
+        "o": [
+          "A. relish",
+          "B. misinterpret",
+          "C. despair over",
+          "D. ambitious",
+          "E. chaotic",
+          "F. choreographed",
+          "G. rattle",
+          "H. bolster",
+          "I. legitimate"
+        ],
+        "translation": "对当今精心编排的总统竞选感到失望的观察者，有时仍会从偶发失误中看到希望：尽管策略师像军事指挥官般精确规划每个活动，候选人在竞选途中仍会因意外而慌乱。",
+        "grammar": "who ... 修饰 observers；that pass for campaigns 修饰 productions。despite 后 political strategists plotting ... 为名词加分词结构，说明严密策划仍有破绽。",
+        "reason": "C despair over、F choreographed、G rattle。军事精度对应编排，意外打乱脚本让候选人不安，也让厌恶包装者看到希望；relish 不符合希望来自失误的逻辑。",
+        "sourcePages": [
+          167,
+          168
+        ]
+      },
+      {
+        "number": 4,
+        "t": "The 1840s were ______ time for young women beginning to study science, particularly astronomy, in 1847 Maria Mitchell discovered the Nantucket comet, the first of several important astronomical discoveries of the era.",
+        "o": [
+          "A. a favorable",
+          "B. an awkward",
+          "C. a perilous",
+          "D. a hazardous",
+          "E. an improbable",
+          "F. an auspicious"
+        ],
+        "translation": "十九世纪四十年代，对开始学习科学、尤其天文学的年轻女性而言是有利的时期；1847年米切尔发现南塔克特彗星，拉开该时代多项重要天文发现的序幕。",
+        "grammar": "particularly ... 缩小科学领域；后半以具体发现解释时期评价。first of several 表连续成果中的第一项。",
+        "reason": "A a favorable、F an auspicious，均为有利、前景良好的。重要发现提供积极证据；perilous、hazardous 是危险，方向相反。",
+        "sourcePages": [
+          167,
+          168
+        ]
+      },
+      {
+        "number": 5,
+        "t": "Explorers could not build on each other's knowledge if they could not trust the records of previous explorers, thus exploration depended on the ______ of those who had gone before.",
+        "o": [
+          "A. collegiality",
+          "B. endurance",
+          "C. exactitude",
+          "D. meticulousness",
+          "E. eminence",
+          "F. tenacity"
+        ],
+        "translation": "探险者若不能信任前人的记录，就无法继承其知识，因此探索依赖于先行者的准确和细致。",
+        "grammar": "if 引不能积累知识的条件；thus 从信赖记录推到记录者的品质，of those ... 说明品质所属者。",
+        "reason": "C exactitude、D meticulousness，均为精确细致。重点是记录质量，不是 endurance、tenacity 所指的毅力。本题与 Section 74 第5题重复，依原书保留。",
+        "sourcePages": [
+          167,
+          168
+        ]
+      },
+      {
+        "number": 6,
+        "t": "In her career as an editor, she pruned and shaped many a writer's ______ prose into crisp lucidity.",
+        "o": [
+          "A. wayward",
+          "B. transparent",
+          "C. errant",
+          "D. urbane",
+          "E. elegant",
+          "F. incisive"
+        ],
+        "translation": "在编辑生涯中，她把许多作者散漫失序的文字修剪、塑造成简洁清晰的表达。",
+        "grammar": "pruned and shaped A into B 是把A改为B；many a writer 为单数形式表达许多作者。crisp lucidity 说明修改后的状态。",
+        "reason": "A wayward、C errant，均有偏离轨道、不受约束之意，此处形容散漫行文；transparent、incisive 已接近目标，无须修剪才清楚。",
+        "sourcePages": [
+          167,
+          168
+        ]
+      },
+      {
+        "number": 7,
+        "t": "The stories of silent drama may often have been ______ yet, within those basic outlines, the true artists among silent-film actors could express shadings that had no immediate analogue in language.",
+        "o": [
+          "A. implausible",
+          "B. incredible",
+          "C. conventional",
+          "D. elemental",
+          "E. rudimentary",
+          "F. confusing"
+        ],
+        "translation": "默片故事也许常很简单，但在基本叙事轮廓中，真正优秀的默片演员能表现出语言中没有直接对应物的细微情感。",
+        "grammar": "yet 对比剧情简单与表演丰富；within ... 限定表达框架。that had ... 修饰 shadings，指情感细微差别。",
+        "reason": "D elemental、E rudimentary，均为基础简单。basic outlines 同义提示；implausible、incredible 都是不可信，非结构简单。",
+        "sourcePages": [
+          167,
+          168
+        ]
+      }
+    ],
+    "sourcePages": [
+      167,
+      168
+    ]
+  },
+  {
+    "id": 76,
+    "answers": [
+      "B",
+      "AF",
+      "AEI",
+      "CEI",
+      "EF",
+      "AC",
+      "BD"
+    ],
+    "kinds": [
+      "single",
+      "multi",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "Within the field of emotional intelligence research, disagreements remain about whether emotional intelligence can be learned and strengthened or is ______ characteristic.",
+        "o": [
+          "A. an expressed",
+          "B. an inborn",
+          "C. an invented",
+          "D. a cultivated",
+          "E. a perceptible"
+        ],
+        "translation": "情绪智力研究领域仍存在分歧：情绪智力究竟可以学习、增强，还是天生的特征。",
+        "grammar": "whether A or B 为两个备选观点；can be learned and strengthened 与 is ... characteristic 并列，不能把 or 读成因果。",
+        "reason": "B an inborn（天生的）。先天与后天学习相对；a cultivated 是培养出来的，与前半重复，无法形成争论两方。",
+        "sourcePages": [
+          169,
+          170
+        ]
+      },
+      {
+        "number": 2,
+        "t": "Just as large manufacturing companies with dominant positions in large domestic markets were once able to resist (i) ______ despite ample signs that foreign competition was rapidly overtaking them, strong and wealthy states can (ii) ______ and still manage to limp along for many years.",
+        "o": [
+          "A. innovation",
+          "B. temptation",
+          "C. inertia",
+          "D. exploit vulnerable markets",
+          "E. dominate international affairs",
+          "F. maintain misguided policies"
+        ],
+        "translation": "正如占据庞大国内市场优势的大制造公司，虽有充分迹象显示外国竞争者迅速超越，仍曾抗拒创新；强大富裕的国家也可坚持错误政策，却照样勉强运转多年。",
+        "grammar": "Just as ... 与主句组成类比；despite 让步。and still manage ... 表错误选择暂未导致彻底失败，limp along 是勉强维持。",
+        "reason": "A innovation、F maintain misguided policies。拒绝应对竞争的创新，类比有资源的国家维持失策；inertia 是惯性，resist inertia 反而是改变。",
+        "sourcePages": [
+          169,
+          170
+        ]
+      },
+      {
+        "number": 3,
+        "t": "Keith Haring's cartoonish art became even more (i) ______ than Andy Warhol's much- reproduced soup cans When, in 1986, he opened his own store, the Pop Shop, to sell licensed Haring merchandise. The public loved the souvenirs the critics (ii) ______ what they saw as his betrayal of artistic integrity. Haring claimed that these critics misunderstood his (iii) ______ to take art beyond galleries and museums, and thus to give a wider audience the opportunity to experience art.",
+        "o": [
+          "A. commercial",
+          "B. traditional",
+          "C. expert",
+          "D. fostered",
+          "E. decried",
+          "F. anticipated",
+          "G. failed plan",
+          "H. financial need",
+          "I. sincere effort"
+        ],
+        "translation": "哈林1986年开店出售授权商品后，其卡通艺术甚至比沃霍尔广为复制的汤罐更商业化。公众喜爱纪念品，批评家却谴责其背叛艺术操守；哈林说，他们误解了他真诚想把艺术带出展馆、让更多人体验艺术的努力。",
+        "grammar": "when 引开店时间；what they saw as ... 为 decried 的宾语。to take ... and to give ... 并列解释 effort 的目的。",
+        "reason": "A commercial、E decried、I sincere effort。销售商品对应商业化，betrayal 对应谴责；艺术家以普及艺术的真心为自己辩护，不是 financial need。",
+        "sourcePages": [
+          169,
+          170
+        ]
+      },
+      {
+        "number": 4,
+        "t": "(i) ______ have often shrilled that Australia's Great Barrier Reef is dying, a result of agricultural runoff from the (ii) ______ Queensland coast. In truth, the preservation of the reef (iii) ______, a combination of active government intervention and the beneficial effects of responsible tourism.",
+        "o": [
+          "A. Apologists",
+          "B. Optimists",
+          "C. Scaremongers",
+          "D. long-abandoned",
+          "E. over-farmed",
+          "F. well-preserved",
+          "G. is based on an impracticality",
+          "H. remains a matter of controversy",
+          "I. is something of a success story"
+        ],
+        "translation": "危言耸听者常尖声声称，大堡礁因昆士兰海岸过度耕作带来的农业径流而濒死；实际上，政府积极介入与负责任旅游共同作用，使珊瑚礁保护某种程度上成为成功案例。",
+        "grammar": "a result of ... 解释声称的死亡原因；In truth 反转前半评价。a combination ... 为政府干预、旅游共同作用的补充说明。",
+        "reason": "C Scaremongers、E over-farmed、I is something of a success story。shrilled 加事实反转提示危言耸听；农业径流对应过耕，保护成功对应 beneficial effects。",
+        "sourcePages": [
+          169,
+          170
+        ]
+      },
+      {
+        "number": 5,
+        "t": "The occasional minor errors, while annoying, do not ______ the basic scholarship or the valuable contribution of this book.",
+        "o": [
+          "A. support",
+          "B. uphold",
+          "C. expose",
+          "D. explain",
+          "E. vitiate",
+          "F. impair"
+        ],
+        "translation": "偶发的小错误虽令人烦恼，却不损害本书扎实的学术基础和有价值的贡献。",
+        "grammar": "while annoying 为省略让步从句；do not 否定损害。scholarship 与 contribution 是并列宾语。",
+        "reason": "E vitiate、F impair，均为损害。小错不足以否定整体价值；support、uphold 是支持，放在 not 后会反向否认价值。",
+        "sourcePages": [
+          169,
+          170
+        ]
+      },
+      {
+        "number": 6,
+        "t": "In American art the line between the good and the goods is not a hard-and-fast boundary, for in a commercial society the membrane that separates spirit and store is always ______.",
+        "o": [
+          "A. porous",
+          "B. clogged",
+          "C. permeable",
+          "D. unwavering",
+          "E. steady",
+          "F. imaginary"
+        ],
+        "translation": "在美国艺术中，艺术之“好”与商品之间没有严格边界，因为商业社会里，精神与商店之间的隔膜总是可穿透的。",
+        "grammar": "good 与 goods 是艺术价值和商品的双关；for 引原因。that separates ... 修饰 membrane，借隔膜比喻艺术商业界线。",
+        "reason": "A porous、C permeable，均为可渗透。not hard-and-fast 表边界不严密；clogged 是堵塞，unwavering、steady 是稳定，都与可互相渗入不同。",
+        "sourcePages": [
+          169,
+          170
+        ]
+      },
+      {
+        "number": 7,
+        "t": "For certain economists, “pure” economic theory, that is, economic theory ______a specific social structure, is impossible, much like a concept of anatomy that investigated no specific species.",
+        "o": [
+          "A. attuned to",
+          "B. abstracted from",
+          "C. derived from",
+          "D. divorced from",
+          "E. sensitive to",
+          "F. analyzed in"
+        ],
+        "translation": "某些经济学家认为，脱离具体社会结构的“纯”经济理论不可能存在，就像不研究任何具体物种的解剖学概念一样。",
+        "grammar": "that is 引同位解释 pure theory；much like 引类比。that investigated ... 修饰 concept of anatomy，否定具体对象。",
+        "reason": "B abstracted from、D divorced from，均为从具体情境抽离。无特定物种对应无社会结构；attuned/sensitive to 是适应、关注，方向相反。",
+        "sourcePages": [
+          169,
+          170
+        ]
+      }
+    ],
+    "sourcePages": [
+      169,
+      170
+    ]
+  },
+  {
+    "id": 77,
+    "answers": [
+      "B",
+      "BD",
+      "AEI",
+      "BD",
+      "CE",
+      "CF",
+      "AC"
+    ],
+    "kinds": [
+      "single",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "The modest but functional new wing finally gives the museum the ______ to serve its visitors properly, including multiple entrances to eliminate the lines that used to snake around the building.",
+        "o": [
+          "A. visibility",
+          "B. wherewithal",
+          "C. reputation",
+          "D. solemnity",
+          "E. panache"
+        ],
+        "translation": "新扩建馆虽朴素，却实用，终于让博物馆具备了妥善服务观众的条件，例如多个入口消除了过去绕楼排队的长队。",
+        "grammar": "modest but functional 让步；gives ... the wherewithal to ... 为提供资源或条件。including 后以多入口说明具体设施。",
+        "reason": "B wherewithal（必要手段、资源）。入口改善的是接待能力；reputation 是名声，panache 是气派，非解决排队的物质条件。",
+        "sourcePages": [
+          171,
+          172
+        ]
+      },
+      {
+        "number": 2,
+        "t": "Collecting such fragment of contemporary popular culture as postcards, newspaper clippings, and wallpaper patterns, Susan Hiller transforms these seemingly (i) ______ artifacts into objective (ii) ______ by making them the centerpieces in her compositions.",
+        "o": [
+          "A. extravagant",
+          "B. trivial",
+          "C. archaic",
+          "D. importance",
+          "E. uniformity",
+          "F. banality"
+        ],
+        "translation": "苏珊·希勒收集明信片、剪报、壁纸图样等流行文化碎片，把它们置于作品中心，使这些看似琐碎的物件获得客观重要性。",
+        "grammar": "Collecting ... 修饰 Susan Hiller；transform A into B 为改变地位。by making ... centerpieces 说明转变方式。【原书核对】原书第170页确为 such fragment 与 objective importance，搭配略不自然，原样保留。",
+        "reason": "B trivial、D importance。seemingly 与成为中心形成由轻到重的转变；banality 只是平庸，会延续而非改变琐碎印象。",
+        "sourcePages": [
+          171,
+          172
+        ]
+      },
+      {
+        "number": 3,
+        "t": "One sometimes hears that Macro Polo introduced pasta to the western world, having encountered it in China. This durable myth, which (i) ______ that nothing should have been known of pasta in Italy until 1295, when Macro Polo returned form the Far East, can easily be (ii) ______ by pointing out that there are Italian references to pasta that (iii) ______.",
+        "o": [
+          "A. requires",
+          "B. demonstrates",
+          "C. symbolizes",
+          "D. augmented",
+          "E. debunked",
+          "F. traced",
+          "G. praise its virtues",
+          "H. can be authenticated",
+          "I. predated that event"
+        ],
+        "translation": "有人说马可·波罗在中国见到意面后将其带到西方。这则流传甚久的神话要求意大利在1295年他归国之前不知道意面；但更早的意大利意面文献即可轻易推翻它。",
+        "grammar": "which ... requires ... 解释传说成立的必要前提；when 引1295年的事件。by pointing out that ... 说明证伪方式；predated 的宾语 that event 指其归国。【原书核对】原书第170页确为 Macro Polo 和 returned form；不默改 Marco Polo 或 from。",
+        "reason": "A requires、E debunked、I predated that event。归国前已有记载直接推翻首次引入说；authenticated 只确认文献真伪，未明确年代冲突。",
+        "sourcePages": [
+          171,
+          172
+        ]
+      },
+      {
+        "number": 4,
+        "t": "The difficulty of reforming electoral politics is not lack of the right tools but the need to put them into the hands of impartial agents: the goal should be to build capacity while ______ partisanship.",
+        "o": [
+          "A. expediting",
+          "B. constraining",
+          "C. facilitating",
+          "D. deterring",
+          "E. exacerbating",
+          "F. lamenting"
+        ],
+        "translation": "选举政治改革难的不是没有合适工具，而是把工具交给公正的执行者；目标应是在建设能力的同时限制党派偏见。",
+        "grammar": "not ... but ... 重定难点；while 后与 build capacity 并列的过程表达另一目标。impartial 为末空提供反义线索。",
+        "reason": "B constraining、D deterring，均为限制、遏止。公正要求抑制 partisanship；facilitating、exacerbating 则助长偏见，违背目标。",
+        "sourcePages": [
+          171,
+          172
+        ]
+      },
+      {
+        "number": 5,
+        "t": "Readers have long considered Lawd Today, Richard Wright's first written and last published novel, ______, the novel simply seems inconsistent with the image of what a Wright text should do or be.",
+        "o": [
+          "A. an artifact",
+          "B. a prototype",
+          "C. an anomaly",
+          "D. a mainstay",
+          "E. an aberration",
+          "F. a model"
+        ],
+        "translation": "长期以来，读者把赖特先写成、最后出版的《Lawd Today》视为异数，因为它似乎不符合人们对赖特作品应有样貌与功能的印象。",
+        "grammar": "first written and last published 并列修饰 novel；后半解释空格。what ... should do or be 是介词 of 后的名词性从句。",
+        "reason": "C an anomaly、E an aberration，均为反常、偏离常规之物。inconsistent with image 是直接线索；prototype、model 反而是典型。",
+        "sourcePages": [
+          171,
+          172
+        ]
+      },
+      {
+        "number": 6,
+        "t": "The book aims to illuminate how science has changed the meaning of nothingness from ______philosophical concept to something We can almost put under a microscope.",
+        "o": [
+          "A. a tangible",
+          "B. a palpable",
+          "C. a nebulous",
+          "D. a nettlesome",
+          "E. an incontrovertible",
+          "F. a vague"
+        ],
+        "translation": "本书旨在阐明，科学如何把“虚无”从模糊的哲学概念，变成几乎能放到显微镜下观察的东西。",
+        "grammar": "illuminate how ... 为说明变化过程；changed A from B to C 比较起点与终点，we can ... 修饰 something。",
+        "reason": "C a nebulous、F a vague，均为模糊。哲学抽象与近乎可观察实体形成反差；tangible、palpable 已是具体可感，与终点重复。",
+        "sourcePages": [
+          171,
+          172
+        ]
+      },
+      {
+        "number": 7,
+        "t": "The company is so old-fashioned and opposed to innovation that it can seem downright ______.",
+        "o": [
+          "A. antediluvian",
+          "B. flighty",
+          "C. archaic",
+          "D. chauvinistic",
+          "E. capricious",
+          "F. patronizing"
+        ],
+        "translation": "这家公司如此老派、反对创新，以至于显得完全陈旧过时。",
+        "grammar": "so ... that ... 表程度结果；downright 加重结论，不表示时间先后。",
+        "reason": "A antediluvian、C archaic，均为陈旧。本题与 Section 66 第5题重复，依原书保留；flighty、capricious 指轻浮多变，不等于古旧。",
+        "sourcePages": [
+          171,
+          172
+        ]
+      }
+    ],
+    "sourcePages": [
+      171,
+      172
+    ]
+  },
+  {
+    "id": 78,
+    "answers": [
+      "E",
+      "AE",
+      "BD",
+      "CFG",
+      "BC",
+      "EF",
+      "EF"
+    ],
+    "kinds": [
+      "single",
+      "multi",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "In one theory, as people learn things throughout the day, connections between neurons get strengthened; but during sleep when all synapses are weakened, tenuous connections are ______ and only the strongest bonds could remain.",
+        "o": [
+          "A. reinforced",
+          "B. reproduced",
+          "C. replaced",
+          "D. stimulated",
+          "E. severed"
+        ],
+        "translation": "一种理论认为，人白天学习会强化神经元连接；睡眠时所有突触都变弱，较弱连接被切断，只剩最强的联系。",
+        "grammar": "as 引学习发生时；but 对照清醒强化与睡眠减弱。when ... 修饰睡眠阶段；only strongest 与 tenuous 对比。",
+        "reason": "E severed（切断）。强连接留下，弱连接须被剪除；reinforced、stimulated 是强化，与 weakened 后的筛除不合。",
+        "sourcePages": [
+          173,
+          174
+        ]
+      },
+      {
+        "number": 2,
+        "t": "Despite dispute between the sisters lasted all summer, Megan remained (i) ______ and Lauren was equally (ii) ______.",
+        "o": [
+          "A. intransigent",
+          "B. feckless",
+          "C. munificent",
+          "D. indolent",
+          "E. uncompromising",
+          "F. taciturn"
+        ],
+        "translation": "姐妹俩的争执持续整个夏天，梅根一直不肯让步，劳伦也同样毫不妥协。",
+        "grammar": "remained 与 was 并列表述两人的状态；equally 规定两空语义相近。原书 Despite 后直接接分句，句法不规范，依文意理解为争执持续。【原书核对】原书第172页确为 Despite dispute ... lasted ...；Despite 后直接接分句不规范，题面保留。",
+        "reason": "A intransigent、E uncompromising，均为不妥协。lasting dispute 与双方 equally 固执一致；feckless、indolent 分别无能、懒惰，无助解释争执持续。",
+        "sourcePages": [
+          173,
+          174
+        ]
+      },
+      {
+        "number": 3,
+        "t": "Until the advent of film, commercial entertainment in England occurred only Where concentrated urban populations provided audiences large enough to make it remunerative: theaters and music halls were (i) ______ in rural villages. But village cinemas quickly become (ii) ______ even though they were ramshackle affairs in comparison to the urban picture palaces.",
+        "o": [
+          "A. spartan",
+          "B. inconceivable",
+          "C. profitable",
+          "D. commonplace",
+          "E. sophisticated",
+          "F. unfashionable"
+        ],
+        "translation": "电影出现前，英格兰商业娱乐只能依靠城市集中人口形成足够观众来盈利，乡村剧场和音乐厅难以想象；但村庄电影院很快普及，虽比城市豪华影院简陋。",
+        "grammar": "where 引满足盈利条件的地点；to make ... remunerative 表足够观众的结果。But 转折，even though 对普及与简陋再作让步。【原书核对】原书第172页确为 village cinemas quickly become；时态写法保留。",
+        "reason": "B inconceivable、D commonplace。原先观众不足难开剧场，新媒介却迅速常见；sophisticated 与 ramshackle 矛盾。",
+        "sourcePages": [
+          173,
+          174
+        ]
+      },
+      {
+        "number": 4,
+        "t": "Firebaugh and Beck contend that economic development improves the overall well-being of people within developing countries. However, other scholars emphasize the (i) ______ of this view, empirically demonstrating that while economic development does in fact contribute to the well- being of the population of developing countries, the magnitude of development's positive effects on well-being has (ii) ______ in other words, these scholars suggest that (iii) ______ economic development and human well-being is taking place in developing countries.",
+        "o": [
+          "A. falsity",
+          "B. arbitrariness",
+          "C. limitation",
+          "D. been greatly underestimated",
+          "E. not yet been measured",
+          "F. decreased over time",
+          "G. a decoupling of",
+          "H. an inversion of",
+          "I. a decline in"
+        ],
+        "translation": "法尔博和贝克认为经济发展改善发展中国家的整体福祉；其他学者则指出该观点的局限：发展确实有益，但促进福祉的效应随时间减弱，意味着经济发展与人类福祉正在逐渐脱钩。",
+        "grammar": "However 转折；while ... does contribute ... 为让步强调，主句 magnitude has ...。In other words 把效应减弱改述为两变量关系弱化。",
+        "reason": "C limitation、F decreased over time、G a decoupling of。承认有益而限制其强度，不是彻底 falsity；效应减弱是联系下降，非 inversion（正负关系倒转）。",
+        "sourcePages": [
+          173,
+          174
+        ]
+      },
+      {
+        "number": 5,
+        "t": "It is hardly ______ for today's film to try to blur the boundaries between the moral and the immoral. Hollywood has been doing that since at least the 1960s.",
+        "o": [
+          "A. entertaining",
+          "B. original",
+          "C. novel",
+          "D. pertinent",
+          "E. relevant",
+          "F. insightful"
+        ],
+        "translation": "如今电影试图模糊道德与不道德的界线，几乎算不上新鲜；好莱坞至少从二十世纪六十年代就一直这样做。",
+        "grammar": "hardly 否定新颖性；has been doing ... since ... 强调长久延续。that 回指模糊道德边界的做法。",
+        "reason": "B original、C novel，均为新颖。已持续数十年，便不是新创意；entertaining 是有趣，与存在时间无关。",
+        "sourcePages": [
+          173,
+          174
+        ]
+      },
+      {
+        "number": 6,
+        "t": "As a historical genre, biography is best when ______, a careful reconstruction of the past in all its unfamiliar particularity.",
+        "o": [
+          "A. introspective",
+          "B. reflective",
+          "C. concrete",
+          "D. concise",
+          "E. meticulous",
+          "F. thorough"
+        ],
+        "translation": "作为历史文类，传记在细致周全地重建过去、保留其陌生而具体的细节时最为出色。",
+        "grammar": "when 后省略 it is；a careful reconstruction 与前半传记的理想状态同位说明。in all its ... 表完整保留特殊细节。",
+        "reason": "E meticulous、F thorough，均为细致彻底。careful 和 all ... particularity 明示；concrete 是具体，未与其他选项构成所需等价对。",
+        "sourcePages": [
+          173,
+          174
+        ]
+      },
+      {
+        "number": 7,
+        "t": "In order to cultivate new repertoire, the music industry is providing a hearing for previously ______ female composers.",
+        "o": [
+          "A. idle",
+          "B. thwarted",
+          "C. celebrated",
+          "D. renowned",
+          "E. anonymous",
+          "F. obscure"
+        ],
+        "translation": "为培育新的演出曲目，音乐界让此前不为人知的女性作曲家获得作品被聆听的机会。",
+        "grammar": "In order to cultivate ... 说明目的；previously 修饰作曲家过去的知名度。providing a hearing 是给予展示机会。",
+        "reason": "E anonymous、F obscure，均为默默无闻。新曲目来自被忽略的作者；celebrated、renowned 是知名的，与提供首次关注不合。",
+        "sourcePages": [
+          173,
+          174
+        ]
+      }
+    ],
+    "sourcePages": [
+      173,
+      174
+    ]
+  },
+  {
+    "id": 79,
+    "answers": [
+      "B",
+      "CF",
+      "CDG",
+      "BC",
+      "CF",
+      "AB",
+      "CF"
+    ],
+    "kinds": [
+      "single",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "He was so ______ during the filming of the movie that crew members nicknamed him “The Angriest Man in the World”.",
+        "o": [
+          "A. loquacious",
+          "B. irascible",
+          "C. perfidious",
+          "D. sanguine",
+          "E. voracious"
+        ],
+        "translation": "拍片期间他如此易怒，以至于剧组人员给他起名“世界上最愤怒的人”。",
+        "grammar": "so ... that ... 为程度结果；nicknamed him ... 为给某人起绰号，绰号具体说明其性格。",
+        "reason": "B irascible（易怒的）。Angriest 为直接同义提示；loquacious 是健谈，voracious 是贪食或求知欲强，不涉及怒气。",
+        "sourcePages": [
+          175,
+          176
+        ]
+      },
+      {
+        "number": 2,
+        "t": "The benefits offered by information technology do not (i) ______ the need for individual reasoning, for example, Internet users should not allow the reasoning process to be (ii) ______ the mere accumulation of raw data.",
+        "o": [
+          "A. disguise",
+          "B. signal",
+          "C. diminish",
+          "D. preceded by",
+          "E. supplemented with",
+          "F. supplanted by"
+        ],
+        "translation": "信息技术提供的好处，并不减少个人推理的必要性；例如，网民不该让推理过程被单纯累积原始数据所取代。",
+        "grammar": "do not 否定 diminish；for example 解释为何仍须思考。allow A to be supplanted by B 表不应让B取代A。",
+        "reason": "C diminish、F supplanted by。数据不能代替推理，所以推理需求不减；supplemented with 是补充，原文并未反对用数据辅助思考。",
+        "sourcePages": [
+          175,
+          176
+        ]
+      },
+      {
+        "number": 3,
+        "t": "To read Joanna Scott is to admire the work of a (i) ______. From sentence to story, she narrates with great skill and (ii) ______ so that the reader soon relaxes in the assurance that a hint or a brushstroke delivered in chapter 1 will be (iii) ______ before the novel comes to an end.",
+        "o": [
+          "A. proselytizer",
+          "B. sage",
+          "C. master",
+          "D. deliberation",
+          "E. enthusiam",
+          "F. flamboyance",
+          "G. given import",
+          "H. largely forgotten",
+          "I. overwhelmed with details"
+        ],
+        "translation": "读乔安娜·斯科特，就是欣赏大师之作。她从句子到故事都技艺高超、安排审慎，读者因而放心：第一章的一条暗示或一笔描写，在小说结束前都会获得意义。",
+        "grammar": "To read ... is to admire ... 为两个不定式结构。so that 引读者反应；assurance that ... 中 that 解释信心内容；before 给伏笔回收期限。【原书核对】原书第174页E确为 enthusiam；照录，不默改 enthusiasm。",
+        "reason": "C master、D deliberation、G given import。great skill 对应大师，有意铺设并回收伏笔体现审慎；forgotten 会破坏读者信心。",
+        "sourcePages": [
+          175,
+          176
+        ]
+      },
+      {
+        "number": 4,
+        "t": "In the northeastern United States, beaver populations had been critically reduce or even ______ in large areas at the end of nineteenth century; as a result, several states instituted prohibitions on beaver trapping.",
+        "o": [
+          "A. diminished",
+          "B. extirpated",
+          "C. eliminated",
+          "D. devalued",
+          "E. weakened",
+          "F. underrated"
+        ],
+        "translation": "十九世纪末，美国东北部海狸数量已严重减少，有些地区甚至绝迹，因此若干州禁止捕猎海狸。",
+        "grammar": "had been ... reduced or even ... 递进到更严重程度；as a result 引保护政策。in large areas 表局部灭绝，不等于全球物种灭绝。【原书核对】原书第174页确为 had been critically reduce；原题词形保留，不默改 reduced。",
+        "reason": "B extirpated、C eliminated，均为根除、消失。even 要比 reduced 更严重；diminished、weakened 仅重复减少或削弱，递进不足。",
+        "sourcePages": [
+          175,
+          176
+        ]
+      },
+      {
+        "number": 5,
+        "t": "The ______ of ophthalmology as a field in the United States from 1820 to 1850 is evident in the opening of at least five eye hospitals during this period, offering new venues for ophthalmic treatment and experimentation.",
+        "o": [
+          "A. sophistication",
+          "B. retrenchment",
+          "C. burgeoning",
+          "D. resurgence",
+          "E. curtailment",
+          "F. expansion"
+        ],
+        "translation": "1820至1850年，美国眼科学迅速发展；这一时期至少五家眼科医院开业，为治疗和实验提供新场所，即可证明其扩张。",
+        "grammar": "主语是空格名词；is evident in ... 给可观察证据。offering ... 说明新医院所带来的资源。",
+        "reason": "C burgeoning、F expansion，均为蓬勃增长。医院增多是规模扩大；resurgence 要求先前衰落再恢复，原文未提这种历史。",
+        "sourcePages": [
+          175,
+          176
+        ]
+      },
+      {
+        "number": 6,
+        "t": "For all the ______ the new CEO has received from the press recently, her staff have a decidedly less rosy view of her.",
+        "o": [
+          "A. encomiums",
+          "B. tributes",
+          "C. evaluations",
+          "D. critiques",
+          "E. attention",
+          "F. publicity"
+        ],
+        "translation": "尽管新任首席执行官近来获得媒体诸多赞誉，她的员工对她的评价却明显不那么乐观。",
+        "grammar": "For all ... 是尽管而非因为；has received ... 修饰赞誉。less rosy 与媒体评价构成态度对照。",
+        "reason": "A encomiums、B tributes，均为赞颂。媒体正面、员工不那么正面才构成让步；attention、publicity 不保证褒义。",
+        "sourcePages": [
+          175,
+          176
+        ]
+      },
+      {
+        "number": 7,
+        "t": "The media have constantly disparaged the governor's competence and have found a public only too eager to applaud their ______.",
+        "o": [
+          "A. assiduousness",
+          "B. stupefaction",
+          "C. mockery",
+          "D. incredulity",
+          "E. certitude",
+          "F. derision"
+        ],
+        "translation": "媒体不断贬低州长的能力，发现公众迫不及待地为这种嘲讽叫好。",
+        "grammar": "have found a public ... 中 public 指公众群体；only too eager 是极其乐意，不是“太愿意而不能”。their 指媒体。",
+        "reason": "C mockery、F derision，均为嘲讽。disparaged 直接规定负面评价方式；assiduousness 是勤奋，无法概括对州长的讥笑。",
+        "sourcePages": [
+          175,
+          176
+        ]
+      }
+    ],
+    "sourcePages": [
+      175,
+      176
+    ]
+  },
+  {
+    "id": 80,
+    "answers": [
+      "B",
+      "AE",
+      "BD",
+      "CFI",
+      "BE",
+      "CD",
+      "BE"
+    ],
+    "kinds": [
+      "single",
+      "multi",
+      "multi",
+      "multi",
+      "equivalent",
+      "equivalent",
+      "equivalent"
+    ],
+    "sourceLabel": "用户提供的配套答案表（已逐题核验）",
+    "questions": [
+      {
+        "number": 1,
+        "t": "The title of her final and unfinished film; Escape, was ______: indeed while shooting it, she was preoccupied with thoughts of desertion.",
+        "o": [
+          "A. quixotic",
+          "B. apt",
+          "C. misleading",
+          "D. inconsequential",
+          "E. uncharacteristic"
+        ],
+        "translation": "她最后一部未完成影片名为《逃离》，这个片名确实贴切，因为拍摄时她一直想着离开。",
+        "grammar": "while shooting ... 省略 she was；was preoccupied with ... 表心思被某事占据。片名 Escape 与 desertion 同义呼应。【原书核对】原书第176页确为 film; Escape，标点照录。",
+        "reason": "B apt（贴切的）。片名与当时念头相符；misleading、uncharacteristic 都暗示不符，方向相反。",
+        "sourcePages": [
+          177,
+          178
+        ]
+      },
+      {
+        "number": 2,
+        "t": "Britain's deteriorating economy after 1945 was (i) ______ by politicians who favored the manufacturing sector over the service sector: rather than attempting to (ii) ______ the decline of manufacturing, they should have promoted service industries.",
+        "o": [
+          "A. mishandled",
+          "B. bolstered",
+          "C. forestalled",
+          "D. augment",
+          "E. arrest",
+          "F. escalate"
+        ],
+        "translation": "1945年后，英国政治家偏重制造业、轻视服务业，错误应对了经济恶化；他们本该发展服务业，而非试图阻止制造业衰退。",
+        "grammar": "who favored ... 修饰 politicians；rather than attempting ... 与 should have promoted ... 比较实际做法和应做选择，should have 表过去未做到的建议。",
+        "reason": "A mishandled、E arrest。偏好部门选择被作者批评，所以处理不当；arrest 此处是阻止下降，不是逮捕，augment/escalate 反而扩大衰退。",
+        "sourcePages": [
+          177,
+          178
+        ]
+      },
+      {
+        "number": 3,
+        "t": "The mood of the times is no longer one of (i) ______ over our scientific achievements. Doubts and worries beset technical and scientific specialists, as well as the public at large. I do not consider such worries (ii) ______ though they are often based on intuitive feeling rather than on strictly logical arguments.",
+        "o": [
+          "A. widening skepticism",
+          "B. uncritical joy",
+          "C. false humility",
+          "D. unfounded",
+          "E. sacrosanct",
+          "F. foreordained"
+        ],
+        "translation": "时代情绪不再是对科学成就毫无批判的喜悦，专家和公众都受到疑虑困扰。作者不认为这些忧虑毫无根据，尽管它们常依直觉而非严格逻辑产生。",
+        "grammar": "no longer 否定先前态度；as well as 连专家与公众。do not consider ... unfounded 为否定负面评价；though 承认依据方式不够严格。",
+        "reason": "B uncritical joy、D unfounded。疑虑取代欢欣；即便多凭直觉，作者仍认为有道理。sacrosanct 是不可侵犯，非忧虑有无根据。",
+        "sourcePages": [
+          177,
+          178
+        ]
+      },
+      {
+        "number": 4,
+        "t": "Within the culture as a whole, the natural sciences have been so successful that the word \"scientific\" is often used in (i) ______ manner: it is often assumed that to call something \" scientific\" is to imply that its reliability has been (ii) ______ by methods whose results cannot reasonably be (iii) ______.",
+        "o": [
+          "A. an ironic",
+          "B. a literal",
+          "C. an honorific",
+          "D. maligned",
+          "E. challenged",
+          "F. established",
+          "G. exaggerated",
+          "H. anticipated",
+          "I. disputed"
+        ],
+        "translation": "自然科学在整个文化中如此成功，以至“科学的”常被当作荣誉性赞语：称某事科学，就仿佛意味着其可靠性已由结果不容合理质疑的方法确立。",
+        "grammar": "so ... that ... 为程度结果；冒号后解释用词带褒义的原因。to call ... is to imply ... 为不定式对应；whose 指 methods。",
+        "reason": "C an honorific、F established、I disputed。成功带来赞誉，方法确立可靠性，结果不可争辩；challenged、maligned 会贬损而非抬高。",
+        "sourcePages": [
+          177,
+          178
+        ]
+      },
+      {
+        "number": 5,
+        "t": "There are great ______ in countries' greenhouse gas emissions, especially in per capita terms: while the United States and China are similar in aggregate emissions, United States per capita emissions are a huge multiple of China's.",
+        "o": [
+          "A. distortions",
+          "B. disparities",
+          "C. fluctuations",
+          "D. advances",
+          "E. variances",
+          "F. vacillations"
+        ],
+        "translation": "各国温室气体排放差异很大，人均差异尤甚：中美总排放接近，美国人均排放却是中国的许多倍。",
+        "grammar": "especially in ... 限定比较尺度；while 对比 aggregate 与 per capita，不是对比两国是否排放。a multiple of 表倍数关系。",
+        "reason": "B disparities、E variances，均为差异。对照的是国家间水平，不是随时间的 fluctuations、vacillations（波动）。",
+        "sourcePages": [
+          177,
+          178
+        ]
+      },
+      {
+        "number": 6,
+        "t": "The ambassador's critical remarks seemed to be less a product of ______ and more the careless utterances of a fatigued or undisciplined individual.",
+        "o": [
+          "A. intensity",
+          "B. optimism",
+          "C. purposefulness",
+          "D. design",
+          "E. confidence",
+          "F. caution"
+        ],
+        "translation": "大使的批评言论看起来较少出于蓄意谋划，更像一个疲倦或缺乏自制者不经意说出的话。",
+        "grammar": "less A and more B 表相对归因，不是数量比较。of a fatigued ... 修饰 utterances，说明随口失言的来源。",
+        "reason": "C purposefulness、D design，均为有意安排。与 careless 相反；intensity 是强烈程度，非有意无意的区分。",
+        "sourcePages": [
+          177,
+          178
+        ]
+      },
+      {
+        "number": 7,
+        "t": "The cat known to researchers as M-120—beefy, audacious, and apparently smart enough to spot a free lunch—is perhaps the world's least ______ lynx: the scientists catch him several times a year.",
+        "o": [
+          "A. intelligent",
+          "B. evasive",
+          "C. fearless",
+          "D. furtive",
+          "E. elusive",
+          "F. intrepid"
+        ],
+        "translation": "研究者称作M-120的这只猫体格壮、胆子大，也聪明到能发现免费食物；它可能是世界上最不善躲避的猞猁，因为科学家一年能抓到它好几次。",
+        "grammar": "破折号内为插入描述；least 否定空格形容词的程度。冒号后的频繁捕获解释为何不难找、不难抓。",
+        "reason": "B evasive、E elusive，均为难捉摸、善躲避。least 加这两个词表示容易捕获；intelligent 与 apparently smart 冲突，fearless/intrepid 则不是捕获频率直接证明的属性。",
+        "sourcePages": [
+          177,
+          178
+        ]
+      }
+    ],
+    "sourcePages": [
+      177,
+      178
+    ]
+  }
+]
